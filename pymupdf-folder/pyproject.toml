@@ -1,0 +1,10 @@
+[project]
+name = "pymupdf-folder"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pymupdf4llm>=0.0.17",
+    "pymupdf>=1.25.3",
+]

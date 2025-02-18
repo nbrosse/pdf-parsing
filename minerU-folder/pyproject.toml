@@ -1,0 +1,17 @@
+[project]
+name = "mineru-folder"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "huggingface-hub>=0.28.1",
+    "magic-pdf[full]>=1.1.0",
+]
+
+[tool.uv]
+prerelease = "allow"
+
+[[tool.uv.index]]
+name = "myhloli"
+url = "https://wheels.myhloli.com/"

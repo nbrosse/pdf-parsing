@@ -1,0 +1,3428 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 2,
+                "poly": [
+                    141,
+                    92,
+                    586,
+                    92,
+                    586,
+                    235,
+                    141,
+                    235
+                ],
+                "score": 0.808
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    909,
+                    1054,
+                    2539,
+                    1054,
+                    2539,
+                    1180,
+                    909,
+                    1180
+                ],
+                "score": 0.568
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    909,
+                    1054,
+                    2539,
+                    1054,
+                    2539,
+                    1180,
+                    909,
+                    1180
+                ],
+                "score": 0.19
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    0,
+                    107,
+                    2569,
+                    107,
+                    2569,
+                    1473,
+                    0,
+                    1473
+                ],
+                "score": 0.124
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    149.0,
+                    164.0,
+                    577.0,
+                    164.0,
+                    577.0,
+                    232.0,
+                    149.0,
+                    232.0
+                ],
+                "score": 0.99,
+                "text": "ConocoPhillips"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    919.0,
+                    1057.0,
+                    2523.0,
+                    1057.0,
+                    2523.0,
+                    1172.0,
+                    919.0,
+                    1172.0
+                ],
+                "score": 0.99,
+                "text": "2023 Analyst & Investor Meeting"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    919.0,
+                    1057.0,
+                    2523.0,
+                    1057.0,
+                    2523.0,
+                    1172.0,
+                    919.0,
+                    1172.0
+                ],
+                "score": 0.99,
+                "text": "2023 Analyst & Investor Meeting"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "height": 1500,
+            "width": 2667
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 2,
+                "poly": [
+                    2385,
+                    1455,
+                    2581,
+                    1455,
+                    2581,
+                    1484,
+                    2385,
+                    1484
+                ],
+                "score": 0.84
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    1015,
+                    243,
+                    2296,
+                    243,
+                    2296,
+                    1119,
+                    1015,
+                    1119
+                ],
+                "score": 0.72
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    88,
+                    68,
+                    600,
+                    68,
+                    600,
+                    158,
+                    88,
+                    158
+                ],
+                "score": 0.502
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    215,
+                    243,
+                    822,
+                    243,
+                    822,
+                    1127,
+                    215,
+                    1127
+                ],
+                "score": 0.399
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    2409,
+                    60,
+                    2604,
+                    60,
+                    2604,
+                    159,
+                    2409,
+                    159
+                ],
+                "score": 0.396
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    1024,
+                    381,
+                    2297,
+                    381,
+                    2297,
+                    445,
+                    1024,
+                    445
+                ],
+                "score": 0.188
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    220,
+                    1176,
+                    679,
+                    1176,
+                    679,
+                    1369,
+                    220,
+                    1369
+                ],
+                "score": 0.179
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    222,
+                    512,
+                    819,
+                    512,
+                    819,
+                    578,
+                    222,
+                    578
+                ],
+                "score": 0.164
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    221,
+                    912,
+                    560,
+                    912,
+                    560,
+                    975,
+                    221,
+                    975
+                ],
+                "score": 0.152
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    88,
+                    68,
+                    600,
+                    68,
+                    600,
+                    158,
+                    88,
+                    158
+                ],
+                "score": 0.131
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    226,
+                    250,
+                    449,
+                    250,
+                    449,
+                    318,
+                    226,
+                    318
+                ],
+                "score": 0.128
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    222,
+                    781,
+                    459,
+                    781,
+                    459,
+                    841,
+                    222,
+                    841
+                ],
+                "score": 0.111
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    1026,
+                    646,
+                    1570,
+                    646,
+                    1570,
+                    709,
+                    1026,
+                    709
+                ],
+                "score": 0.108
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    225,
+                    378,
+                    766,
+                    378,
+                    766,
+                    448,
+                    225,
+                    448
+                ],
+                "score": 0.106
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2386.0,
+                    1456.0,
+                    2537.0,
+                    1456.0,
+                    2537.0,
+                    1486.0,
+                    2386.0,
+                    1486.0
+                ],
+                "score": 1.0,
+                "text": "ConocoPhillips"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2567.0,
+                    1462.0,
+                    2579.0,
+                    1462.0,
+                    2579.0,
+                    1479.0,
+                    2567.0,
+                    1479.0
+                ],
+                "score": 1.0,
+                "text": "2"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1028.0,
+                    254.0,
+                    1704.0,
+                    254.0,
+                    1704.0,
+                    318.0,
+                    1028.0,
+                    318.0
+                ],
+                "score": 0.98,
+                "text": "Ryan Lance Chairman and CEO"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1027.0,
+                    517.0,
+                    1815.0,
+                    517.0,
+                    1815.0,
+                    579.0,
+                    1027.0,
+                    579.0
+                ],
+                "score": 0.96,
+                "text": "Andy O'Brien SVP Global Operations"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1029.0,
+                    647.0,
+                    1571.0,
+                    647.0,
+                    1571.0,
+                    712.0,
+                    1029.0,
+                    712.0
+                ],
+                "score": 0.98,
+                "text": "Bill BullockEVP and CFO"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1026.0,
+                    781.0,
+                    1558.0,
+                    781.0,
+                    1558.0,
+                    847.0,
+                    1026.0,
+                    847.0
+                ],
+                "score": 0.97,
+                "text": "Nick Olds EVP, Lower 48"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1027.0,
+                    915.0,
+                    1572.0,
+                    915.0,
+                    1572.0,
+                    977.0,
+                    1027.0,
+                    977.0
+                ],
+                "score": 0.98,
+                "text": "Bill Bullock EVP and CFO"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1027.0,
+                    1051.0,
+                    1697.0,
+                    1051.0,
+                    1697.0,
+                    1117.0,
+                    1027.0,
+                    1117.0
+                ],
+                "score": 0.99,
+                "text": "Ryan Lance Chairman and CEO"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1025.75,
+                    385.5,
+                    2286.75,
+                    385.5,
+                    2286.75,
+                    449.5,
+                    1025.75,
+                    449.5
+                ],
+                "score": 0.97,
+                "text": "Dominic Macklon  EVP Strategy, Sustainability and Technology"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    93.0,
+                    74.0,
+                    595.0,
+                    74.0,
+                    595.0,
+                    156.0,
+                    93.0,
+                    156.0
+                ],
+                "score": 0.96,
+                "text": "Today's Agenda"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    227.0,
+                    252.0,
+                    448.0,
+                    252.0,
+                    448.0,
+                    321.0,
+                    227.0,
+                    321.0
+                ],
+                "score": 1.0,
+                "text": "Opening"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    224.0,
+                    384.0,
+                    764.0,
+                    384.0,
+                    764.0,
+                    446.0,
+                    224.0,
+                    446.0
+                ],
+                "score": 0.98,
+                "text": "Strategy and Portfolio"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    229.0,
+                    517.0,
+                    813.0,
+                    517.0,
+                    813.0,
+                    571.0,
+                    229.0,
+                    571.0
+                ],
+                "score": 1.0,
+                "text": "Alaska and International"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    226.0,
+                    652.0,
+                    749.0,
+                    652.0,
+                    749.0,
+                    704.0,
+                    226.0,
+                    704.0
+                ],
+                "score": 0.99,
+                "text": "LNG and Commercial"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    222.0,
+                    786.0,
+                    453.0,
+                    786.0,
+                    453.0,
+                    838.0,
+                    222.0,
+                    838.0
+                ],
+                "score": 1.0,
+                "text": "Lower 48"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    224.0,
+                    917.0,
+                    554.0,
+                    917.0,
+                    554.0,
+                    972.0,
+                    224.0,
+                    972.0
+                ],
+                "score": 1.0,
+                "text": "Financial Plan"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    227.0,
+                    1047.0,
+                    409.0,
+                    1047.0,
+                    409.0,
+                    1116.0,
+                    227.0,
+                    1116.0
+                ],
+                "score": 1.0,
+                "text": "Closing"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1028.75,
+                    389.0,
+                    2283.75,
+                    389.0,
+                    2283.75,
+                    446.0,
+                    1028.75,
+                    446.0
+                ],
+                "score": 0.98,
+                "text": "Dominic Macklon  EVP, Strategy, Sustainability and Technology"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    225.0,
+                    1183.0,
+                    676.0,
+                    1183.0,
+                    676.0,
+                    1244.0,
+                    225.0,
+                    1244.0
+                ],
+                "score": 0.99,
+                "text": "10-Minute Break"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    229.0,
+                    1308.0,
+                    548.0,
+                    1308.0,
+                    548.0,
+                    1366.0,
+                    229.0,
+                    1366.0
+                ],
+                "score": 1.0,
+                "text": "Q&A Session"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    230.0,
+                    519.0,
+                    810.0,
+                    519.0,
+                    810.0,
+                    570.0,
+                    230.0,
+                    570.0
+                ],
+                "score": 0.99,
+                "text": "Alaska and International"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    227.0,
+                    918.0,
+                    553.0,
+                    918.0,
+                    553.0,
+                    970.0,
+                    227.0,
+                    970.0
+                ],
+                "score": 1.0,
+                "text": "Financial Plan"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    93.0,
+                    74.0,
+                    595.0,
+                    74.0,
+                    595.0,
+                    156.0,
+                    93.0,
+                    156.0
+                ],
+                "score": 0.96,
+                "text": "Today's Agenda"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    230.0,
+                    253.0,
+                    445.0,
+                    253.0,
+                    445.0,
+                    320.0,
+                    230.0,
+                    320.0
+                ],
+                "score": 1.0,
+                "text": "Opening"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    226.0,
+                    786.0,
+                    452.0,
+                    786.0,
+                    452.0,
+                    838.0,
+                    226.0,
+                    838.0
+                ],
+                "score": 1.0,
+                "text": "Lower 48"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1029.0,
+                    652.0,
+                    1288.0,
+                    652.0,
+                    1288.0,
+                    704.0,
+                    1029.0,
+                    704.0
+                ],
+                "score": 0.96,
+                "text": "Bill Bullock"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1310.0,
+                    660.0,
+                    1566.0,
+                    660.0,
+                    1566.0,
+                    706.0,
+                    1310.0,
+                    706.0
+                ],
+                "score": 1.0,
+                "text": "EVP and CFO"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    228.0,
+                    387.0,
+                    761.0,
+                    387.0,
+                    761.0,
+                    443.0,
+                    228.0,
+                    443.0
+                ],
+                "score": 1.0,
+                "text": "Strategy and Portfolio"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "height": 1500,
+            "width": 2667
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    72,
+                    575,
+                    2610,
+                    575,
+                    2610,
+                    1170,
+                    72,
+                    1170
+                ],
+                "score": 0.974
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    65,
+                    1190,
+                    2602,
+                    1190,
+                    2602,
+                    1325,
+                    65,
+                    1325
+                ],
+                "score": 0.96
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    63,
+                    176,
+                    2584,
+                    176,
+                    2584,
+                    445,
+                    63,
+                    445
+                ],
+                "score": 0.887
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    2387,
+                    1458,
+                    2579,
+                    1458,
+                    2579,
+                    1483,
+                    2387,
+                    1483
+                ],
+                "score": 0.886
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    86,
+                    74,
+                    803,
+                    74,
+                    803,
+                    153,
+                    86,
+                    153
+                ],
+                "score": 0.88
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    2411,
+                    63,
+                    2601,
+                    63,
+                    2601,
+                    157,
+                    2411,
+                    157
+                ],
+                "score": 0.85
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    83,
+                    474,
+                    2581,
+                    474,
+                    2581,
+                    555,
+                    83,
+                    555
+                ],
+                "score": 0.767
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    322,
+                    470,
+                    2554,
+                    470,
+                    2554,
+                    553,
+                    322,
+                    553
+                ],
+                "score": 0.718
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    426,
+                    1350,
+                    2583,
+                    1350,
+                    2583,
+                    1408,
+                    426,
+                    1408
+                ],
+                "score": 0.687
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    73,
+                    1349,
+                    2590,
+                    1349,
+                    2590,
+                    1436,
+                    73,
+                    1436
+                ],
+                "score": 0.513
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    399,
+                    1350,
+                    2585,
+                    1350,
+                    2585,
+                    1408,
+                    399,
+                    1408
+                ],
+                "score": 0.271
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    84,
+                    178,
+                    2318,
+                    178,
+                    2318,
+                    235,
+                    84,
+                    235
+                ],
+                "score": 0.239
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    640,
+                    232,
+                    701,
+                    232,
+                    701,
+                    258,
+                    640,
+                    258
+                ],
+                "score": 0.87,
+                "latex": "2.25\\%"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    747,
+                    259,
+                    808,
+                    259,
+                    808,
+                    284,
+                    747,
+                    284
+                ],
+                "score": 0.87,
+                "latex": "2.25\\%"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    818,
+                    205,
+                    880,
+                    205,
+                    880,
+                    231,
+                    818,
+                    231
+                ],
+                "score": 0.85,
+                "latex": "2.25\\%"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    1152,
+                    284,
+                    1213,
+                    284,
+                    1213,
+                    311,
+                    1152,
+                    311
+                ],
+                "score": 0.85,
+                "latex": "2.25\\%"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    233,
+                    259,
+                    283,
+                    259,
+                    283,
+                    285,
+                    233,
+                    285
+                ],
+                "score": 0.48,
+                "latex": "\\$3.75"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    366,
+                    285,
+                    394,
+                    285,
+                    394,
+                    311,
+                    366,
+                    311
+                ],
+                "score": 0.36,
+                "latex": "\\$8,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    63.0,
+                    598.0,
+                    2613.0,
+                    598.0,
+                    2613.0,
+                    650.0,
+                    63.0,
+                    650.0
+                ],
+                "score": 0.61,
+                "text": "beledefthfndataalin"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    63.0,
+                    623.0,
+                    2547.0,
+                    623.0,
+                    2547.0,
+                    674.0,
+                    63.0,
+                    674.0
+                ],
+                "score": 0.62,
+                "text": "thaareeneddfntatndreliliffwxerastinthadinedui"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    61.0,
+                    650.0,
+                    2608.0,
+                    650.0,
+                    2608.0,
+                    704.0,
+                    61.0,
+                    704.0
+                ],
+                "score": 0.64,
+                "text": "Fatsthalatuauafhadeandinddeihehteahagiad"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    66.0,
+                    682.0,
+                    2591.0,
+                    682.0,
+                    2591.0,
+                    726.0,
+                    66.0,
+                    726.0
+                ],
+                "score": 0.65,
+                "text": "pricediffentalteanfetinlanlinghangeulifmgnlitafitnfiteanandtltittythreatsnfldifrastrtu"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    66.0,
+                    710.0,
+                    2594.0,
+                    710.0,
+                    2594.0,
+                    753.0,
+                    66.0,
+                    753.0
+                ],
+                "score": 0.83,
+                "text": "fromapublichealthcrisisorfrm theimpositionorlitingof crudeoilproductionqutasortherationsthatmightemposedbyOECandotheproducingcoutriesand theresulting cmany orthird-partyactionsinreponsetosuchchangesinsuficiet liquidityor"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    66.0,
+                    737.0,
+                    2589.0,
+                    737.0,
+                    2589.0,
+                    780.0,
+                    66.0,
+                    780.0
+                ],
+                "score": 0.74,
+                "text": "ther fatorshastheliserthaoudmact urabitytrprchaehaeandelareandadividendssuchthatwsedosharreurchas prgramnd reduenrttalinatdividendpaymentsinthfuurewhthevaria"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    66.0,
+                    764.0,
+                    2536.0,
+                    764.0,
+                    2536.0,
+                    807.0,
+                    66.0,
+                    807.0
+                ],
+                "score": 0.75,
+                "text": "fixed;changesinxetedlevlsfoilandgasreeverprdtiontentiafailurerdelainachieingexptedreerprdutonvesfrmxistingandfutureilandgasdevelpmentsinldingdtperatinghazardslingrsrnccss"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    63.0,
+                    786.0,
+                    2589.0,
+                    786.0,
+                    2589.0,
+                    837.0,
+                    63.0,
+                    837.0
+                ],
+                "score": 0.62,
+                "text": "exloratratitiuxpedcsticeafanurereialdifltiruinaininingdyinanfalegislatandregaryiniaddresiglbalimacangrtenrentnelihah"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    66.0,
+                    815.0,
+                    2572.0,
+                    815.0,
+                    2572.0,
+                    859.0,
+                    66.0,
+                    859.0
+                ],
+                "score": 0.74,
+                "text": "criseinldingpandeic shas-andidisandanacts rrelatdmanyrgvement plractionsinvestent inandevelmet fcingraltatiegyorceptetafalrerdelaydeliveince "
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    66.0,
+                    843.0,
+                    2536.0,
+                    843.0,
+                    2536.0,
+                    886.0,
+                    66.0,
+                    886.0
+                ],
+                "score": 0.8,
+                "text": "futurelw-carbnstrategyincldingoinabitytevelptchlgiedsrutionsorinterrutiosating thetranportatiofooilandgasprodutioninteatonamntacnionsandexchangratftuatonschangeininteational tra"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    63.0,
+                    862.0,
+                    2602.0,
+                    862.0,
+                    2602.0,
+                    913.0,
+                    63.0,
+                    913.0
+                ],
+                "score": 0.7,
+                "text": "relationsirgvmentalolieidldinthisionfpriccarthisionftraderestritinrtrfsnanmteriasrpdtssuchasalinumandsteeusedintoperaonfoubsiesiluinganysantioisedasresulfany"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    63.0,
+                    889.0,
+                    2608.0,
+                    889.0,
+                    2608.0,
+                    940.0,
+                    63.0,
+                    940.0
+                ],
+                "score": 0.64,
+                "text": "ongingiiafiinldintfieenRsiaandrnlittlletyetldingaitlletayesfgnfVeularoaltyleanyandfuredsiior"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    66.0,
+                    921.0,
+                    2613.0,
+                    921.0,
+                    2613.0,
+                    965.0,
+                    66.0,
+                    965.0
+                ],
+                "score": 0.68,
+                "text": "aquistonfaalltibiy thatrgatyralsfranyaedranfuedsiquisiednasisatalthat suhrvalarqurdificatonttmsf thranationi"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    63.0,
+                    946.0,
+                    2567.0,
+                    946.0,
+                    2567.0,
+                    997.0,
+                    63.0,
+                    997.0
+                ],
+                "score": 0.63,
+                "text": "biesfioquisidedathiffiin"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    66.0,
+                    976.0,
+                    2594.0,
+                    976.0,
+                    2594.0,
+                    1019.0,
+                    66.0,
+                    1019.0
+                ],
+                "score": 0.64,
+                "text": "aticipatittntiaitfrlctnxisingfuurerentarlatntiliabitulingfrndigegatnlingigaratdditlyrtltractnthnchRrtt"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    66.0,
+                    1003.0,
+                    2594.0,
+                    1003.0,
+                    2594.0,
+                    1046.0,
+                    66.0,
+                    1046.0
+                ],
+                "score": 0.78,
+                "text": "ofcometitinandcnslidatioin thoilandgaindustrylimitd acesstcapitarinrancrinifiantlyighecostf capitarinurancerelatedtoilqgidityrncertaintyinthedmesticorinterationalfinancialarketsorinvestorentment; generaldmetic"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    66.0,
+                    1030.0,
+                    2550.0,
+                    1030.0,
+                    2550.0,
+                    1073.0,
+                    66.0,
+                    1073.0
+                ],
+                "score": 0.74,
+                "text": "ad inteatonal micand polical cndiosdeelntninareult f angoingmiltacfict icling thcnflitteenssaandrainechangesinfisalregrtaxenrnmentalandthelwsapliabletbinand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    66.0,
+                    1054.0,
+                    2580.0,
+                    1054.0,
+                    2580.0,
+                    1098.0,
+                    66.0,
+                    1098.0
+                ],
+                "score": 0.61,
+                "text": "disuptlfretrreteelnrisrrteattlgtrdidhtnlatf"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    63.0,
+                    1082.0,
+                    2556.0,
+                    1082.0,
+                    2556.0,
+                    1125.0,
+                    63.0,
+                    1125.0
+                ],
+                "score": 0.69,
+                "text": "oubuissgenrallasetfothfingwithtriandExchangmissolsgallyquirniixpressilaayligattatanyfardingstaentwthasulfnftonen"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    66.0,
+                    1109.0,
+                    2602.0,
+                    1109.0,
+                    2602.0,
+                    1152.0,
+                    66.0,
+                    1152.0
+                ],
+                "score": 0.84,
+                "text": "otherwiseWeassumendutytudate thesstatments asf anyfuturedateand eitherfuturedistribtionof thismaterialortheontinued avalabiltyof thismaterial inarchivefomonouwesite hould beeeed toconstitute anupdatorre-affmationof thee"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    60.0,
+                    1130.0,
+                    1311.0,
+                    1130.0,
+                    1311.0,
+                    1182.0,
+                    60.0,
+                    1182.0
+                ],
+                "score": 0.79,
+                "text": "figuresas of anyfuture date. Anyfutureudateof the fgures il e povide onlytrough a publicdiscosure indicatigtht fat."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    64.0,
+                    1187.0,
+                    2570.0,
+                    1187.0,
+                    2570.0,
+                    1233.0,
+                    64.0,
+                    1233.0
+                ],
+                "score": 0.88,
+                "text": "Use of Non-GAP Financial InformationThispresentation includes non-GAPfinancial measures, whichhelpfailitatecomparisonof companyoperating performance across periods and with peer companies Any historical non-GAPmeasuresinduded herein willbe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    64.0,
+                    1213.0,
+                    2570.0,
+                    1213.0,
+                    2570.0,
+                    1260.0,
+                    64.0,
+                    1260.0
+                ],
+                "score": 0.79,
+                "text": "acompaniedbyareconciliationtotheearestcorespondingGPmeasurebothatheendof thispreentationandonurwesiteatwwwconocophilisomnongaapForforwardloingon-Peasuresweareunabletoprovieareconilitonto thmost"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    64.0,
+                    1240.0,
+                    2531.0,
+                    1240.0,
+                    2531.0,
+                    1287.0,
+                    64.0,
+                    1287.0
+                ],
+                "score": 0.82,
+                "text": "comparableGAAPfinancialmeasurebeause theifrmationneeded toreconilethesemeasureisdependent onfuture eentmanyof whichare outsidemanageent's conrolasdescribed aboveAditionall estimating suchGPmeasureand providinga"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    67.0,
+                    1270.0,
+                    2534.0,
+                    1270.0,
+                    2534.0,
+                    1309.0,
+                    67.0,
+                    1309.0
+                ],
+                "score": 0.96,
+                "text": "meaningful reconcilationconsistent withouraccounting policiesfor future periods is extremely difficult and requires alevel of precision that is unavailable for these future periods and cannot be accomplished without unreasonable effort. Forward looking non-GAAP"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    64.0,
+                    1297.0,
+                    831.0,
+                    1297.0,
+                    831.0,
+                    1336.0,
+                    64.0,
+                    1336.0
+                ],
+                "score": 0.97,
+                "text": "measures are estimated consistent with the relevant definitions and assumptions."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    68.0,
+                    250.0,
+                    232.0,
+                    250.0,
+                    232.0,
+                    302.0,
+                    68.0,
+                    302.0
+                ],
+                "score": 0.85,
+                "text": ". a gas price of"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    284.0,
+                    250.0,
+                    746.0,
+                    250.0,
+                    746.0,
+                    302.0,
+                    284.0,
+                    302.0
+                ],
+                "score": 0.84,
+                "text": "/MBTUHenry Hub in 22dolas,escalaingat"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    809.0,
+                    250.0,
+                    908.0,
+                    250.0,
+                    908.0,
+                    302.0,
+                    809.0,
+                    302.0
+                ],
+                "score": 0.8,
+                "text": "annualyia"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    92.0,
+                    279.0,
+                    365.0,
+                    279.0,
+                    365.0,
+                    325.0,
+                    92.0,
+                    325.0
+                ],
+                "score": 0.92,
+                "text": "an internationalgaspriceof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    395.0,
+                    279.0,
+                    1151.0,
+                    279.0,
+                    1151.0,
+                    325.0,
+                    395.0,
+                    325.0
+                ],
+                "score": 0.8,
+                "text": "MMBTUTileransferFaity&JapanoreaMarerin222dllars ecalatingat"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1214.0,
+                    279.0,
+                    1313.0,
+                    279.0,
+                    1313.0,
+                    325.0,
+                    1214.0,
+                    325.0
+                ],
+                "score": 0.84,
+                "text": "annuallyh"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    92.0,
+                    308.0,
+                    1455.0,
+                    308.0,
+                    1455.0,
+                    354.0,
+                    92.0,
+                    354.0
+                ],
+                "score": 0.9,
+                "text": " cost and capital escalation in line ith price escalation; planing caseat $60/BLWTIlassumes capital de-esclationfrom levls observed in 2z;"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    70.0,
+                    345.0,
+                    89.0,
+                    345.0,
+                    89.0,
+                    368.0,
+                    70.0,
+                    368.0
+                ],
+                "score": 0.61,
+                "text": "·"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    92.0,
+                    334.0,
+                    1089.0,
+                    334.0,
+                    1089.0,
+                    380.0,
+                    92.0,
+                    380.0
+                ],
+                "score": 0.81,
+                "text": "all productioncmound aualgrowthrtes(CAGRarecalulatdforthe0yearperid 202303;"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    95.0,
+                    365.0,
+                    1695.0,
+                    365.0,
+                    1695.0,
+                    403.0,
+                    95.0,
+                    403.0
+                ],
+                "score": 0.97,
+                "text": "inclusion of carbon tax in the cash flow forecasts for assets where a tax is currently assessed.If no carbon tax exists for the asset, it is not included in the cash flow forecasts;"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    95.0,
+                    388.0,
+                    2593.0,
+                    388.0,
+                    2593.0,
+                    434.0,
+                    95.0,
+                    434.0
+                ],
+                "score": 0.75,
+                "text": "CostfSldsladininearbntaxwhrecarbpolixistsandaproxycarnpricfrasets witht existingcarbpoliileasereertothost fupldeniionintheedifradionalfmatinncarbnosts aree"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    92.0,
+                    414.0,
+                    417.0,
+                    414.0,
+                    417.0,
+                    460.0,
+                    92.0,
+                    460.0
+                ],
+                "score": 0.95,
+                "text": " in the Cost of Supply calculation."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2387.0,
+                    1457.0,
+                    2542.0,
+                    1457.0,
+                    2542.0,
+                    1485.0,
+                    2387.0,
+                    1485.0
+                ],
+                "score": 1.0,
+                "text": "ConocoPhillips"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2564.0,
+                    1464.0,
+                    2576.0,
+                    1464.0,
+                    2576.0,
+                    1477.0,
+                    2564.0,
+                    1477.0
+                ],
+                "score": 1.0,
+                "text": "3"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    95.0,
+                    79.0,
+                    800.0,
+                    79.0,
+                    800.0,
+                    148.0,
+                    95.0,
+                    148.0
+                ],
+                "score": 1.0,
+                "text": "Cautionary Statement"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    76.0,
+                    469.0,
+                    2531.0,
+                    469.0,
+                    2531.0,
+                    514.0,
+                    76.0,
+                    514.0
+                ],
+                "score": 0.71,
+                "text": "result thisntatntinfado stants detheralurtardlostaentsrelattfureentsaandantipatd reutfatiistratgindthtsferat"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    76.0,
+                    495.0,
+                    2561.0,
+                    495.0,
+                    2561.0,
+                    540.0,
+                    76.0,
+                    540.0
+                ],
+                "score": 0.69,
+                "text": "peratingltsrahicsthat pintfredanstt ad-ing stantsrsad prasshsantat\"stmatgico,ined,aantntiaedictehdiw"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    74.0,
+                    517.0,
+                    2542.0,
+                    517.0,
+                    2542.0,
+                    571.0,
+                    74.0,
+                    571.0
+                ],
+                "score": 0.62,
+                "text": "xpect,titoreastgoagidaneuoofoargandotilarsasdidentffadlig staentwethaneof theserdntanthathsntsarent wading"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    316.0,
+                    469.0,
+                    2531.0,
+                    469.0,
+                    2531.0,
+                    514.0,
+                    316.0,
+                    514.0
+                ],
+                "score": 0.71,
+                "text": "ncontainfardlig stants dedthdralurtardoitaentselattfureentslasadantipatedreutsfatiobuintratgiedthtsfrrat"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    318.0,
+                    494.0,
+                    2560.0,
+                    494.0,
+                    2560.0,
+                    540.0,
+                    318.0,
+                    540.0
+                ],
+                "score": 0.68,
+                "text": "that prjinfuredasttfrdng stantrdsand prashsantatesta\"cdned,malan,ttadiehdi"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    418.0,
+                    1344.0,
+                    2581.0,
+                    1344.0,
+                    2581.0,
+                    1394.0,
+                    418.0,
+                    1394.0
+                ],
+                "score": 0.73,
+                "text": "eSEC emitsilandgacanies intheiflingwith thE,t disloseonly provedprobaleand possblereseeseuseemsandrischasresurc orEstmatedUtmateecovery ERin this presentationthat"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    423.0,
+                    1379.0,
+                    2471.0,
+                    1379.0,
+                    2471.0,
+                    1418.0,
+                    423.0,
+                    1418.0
+                ],
+                "score": 0.97,
+                "text": "with the SEC under the SEC's guidelines. U.S. investors are urged to consider closely the oil and gas disclosures in our Form 10-K and other reports and flings with the SEC. Copies are available from the SEC and from the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    67.0,
+                    1346.0,
+                    2577.0,
+                    1346.0,
+                    2577.0,
+                    1393.0,
+                    67.0,
+                    1393.0
+                ],
+                "score": 0.64,
+                "text": "Cationartvethiiladcathflinihttdienedpalandsireedriurersteintsrenta"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    69.0,
+                    1375.0,
+                    2471.0,
+                    1375.0,
+                    2471.0,
+                    1422.0,
+                    69.0,
+                    1422.0
+                ],
+                "score": 0.85,
+                "text": "weareprhiitd frmusin inflings with theSEunder theEC's guidelins. USinvestors areurgedtconsidelely theiland gasdislosures inouForm1 andothereortsand flins with theEC.Copies areavailale from th SEC and fro the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    67.0,
+                    1401.0,
+                    298.0,
+                    1401.0,
+                    298.0,
+                    1448.0,
+                    67.0,
+                    1448.0
+                ],
+                "score": 0.84,
+                "text": "ConocoPhiis website."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    392.0,
+                    1344.0,
+                    2583.0,
+                    1344.0,
+                    2583.0,
+                    1394.0,
+                    392.0,
+                    1394.0
+                ],
+                "score": 0.72,
+                "text": "TheSEC emitsilandgascanies in theifligwth theE t disclose ol proed proale and posiblereeesese emsandetricsharesurc orEstmatedUmate ecoer Einthispresntaton that"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    394.0,
+                    1379.0,
+                    2471.0,
+                    1379.0,
+                    2471.0,
+                    1418.0,
+                    394.0,
+                    1418.0
+                ],
+                "score": 0.97,
+                "text": "igs with the SEC under the SEC's guidelines. U.S. investors are urged to consider closely the oiland gas disclosures in our Form 1-K and other reports and filings with the SEC. Copies are available from the SEC and from the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    73.0,
+                    172.0,
+                    2305.0,
+                    172.0,
+                    2305.0,
+                    221.0,
+                    73.0,
+                    221.0
+                ],
+                "score": 0.62,
+                "text": "hipreseiatraerttatiodistiial"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    92.0,
+                    206.0,
+                    817.0,
+                    206.0,
+                    817.0,
+                    246.0,
+                    92.0,
+                    246.0
+                ],
+                "score": 0.97,
+                "text": " an oil price of $60/BL West Texas Intermediate in 2022 dollars, escalating at"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    881.0,
+                    206.0,
+                    972.0,
+                    206.0,
+                    972.0,
+                    246.0,
+                    881.0,
+                    246.0
+                ],
+                "score": 0.94,
+                "text": "annualy;"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "height": 1500,
+            "width": 2667
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 2,
+                "poly": [
+                    141,
+                    93,
+                    585,
+                    93,
+                    585,
+                    235,
+                    141,
+                    235
+                ],
+                "score": 0.812
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    0,
+                    230,
+                    2274,
+                    230,
+                    2274,
+                    1290,
+                    0,
+                    1290
+                ],
+                "score": 0.319
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    1079,
+                    954,
+                    1528,
+                    954,
+                    1528,
+                    1075,
+                    1079,
+                    1075
+                ],
+                "score": 0.168
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    1073,
+                    953,
+                    1653,
+                    953,
+                    1653,
+                    1251,
+                    1073,
+                    1251
+                ],
+                "score": 0.14
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    149.0,
+                    165.0,
+                    576.0,
+                    165.0,
+                    576.0,
+                    231.0,
+                    149.0,
+                    231.0
+                ],
+                "score": 1.0,
+                "text": "ConocoPhillips"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1089.0,
+                    963.0,
+                    1518.0,
+                    963.0,
+                    1518.0,
+                    1076.0,
+                    1089.0,
+                    1076.0
+                ],
+                "score": 1.0,
+                "text": "Opening"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1089.0,
+                    960.0,
+                    1522.0,
+                    960.0,
+                    1522.0,
+                    1080.0,
+                    1089.0,
+                    1080.0
+                ],
+                "score": 1.0,
+                "text": "Opening"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1086.0,
+                    1099.0,
+                    1424.0,
+                    1099.0,
+                    1424.0,
+                    1168.0,
+                    1086.0,
+                    1168.0
+                ],
+                "score": 0.98,
+                "text": "Ryan Lance"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1084.0,
+                    1179.0,
+                    1648.0,
+                    1179.0,
+                    1648.0,
+                    1248.0,
+                    1084.0,
+                    1248.0
+                ],
+                "score": 0.99,
+                "text": "Chairman and CEO"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "height": 1500,
+            "width": 2667
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    1659,
+                    368,
+                    2251,
+                    368,
+                    2251,
+                    622,
+                    1659,
+                    622
+                ],
+                "score": 0.963
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    1537,
+                    1039,
+                    2373,
+                    1039,
+                    2373,
+                    1291,
+                    1537,
+                    1291
+                ],
+                "score": 0.957
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    153,
+                    388,
+                    1238,
+                    388,
+                    1238,
+                    1340,
+                    153,
+                    1340
+                ],
+                "score": 0.948
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    1650,
+                    238,
+                    2260,
+                    238,
+                    2260,
+                    305,
+                    1650,
+                    305
+                ],
+                "score": 0.926
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    1657,
+                    769,
+                    2250,
+                    769,
+                    2250,
+                    898,
+                    1657,
+                    898
+                ],
+                "score": 0.914
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    91,
+                    68,
+                    1855,
+                    68,
+                    1855,
+                    153,
+                    91,
+                    153
+                ],
+                "score": 0.884
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    2386,
+                    1456,
+                    2582,
+                    1456,
+                    2582,
+                    1484,
+                    2386,
+                    1484
+                ],
+                "score": 0.837
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    541,
+                    245,
+                    893,
+                    245,
+                    893,
+                    355,
+                    541,
+                    355
+                ],
+                "score": 0.598
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    2410,
+                    61,
+                    2603,
+                    61,
+                    2603,
+                    158,
+                    2410,
+                    158
+                ],
+                "score": 0.426
+            },
+            {
+                "category_id": 4,
+                "poly": [
+                    541,
+                    245,
+                    893,
+                    245,
+                    893,
+                    355,
+                    541,
+                    355
+                ],
+                "score": 0.211
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1716.0,
+                    371.0,
+                    2188.0,
+                    371.0,
+                    2188.0,
+                    425.0,
+                    1716.0,
+                    425.0
+                ],
+                "score": 1.0,
+                "text": "We are committed to"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1665.0,
+                    433.0,
+                    2246.0,
+                    433.0,
+                    2246.0,
+                    496.0,
+                    1665.0,
+                    496.0
+                ],
+                "score": 1.0,
+                "text": "delivering superior returns"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1760.0,
+                    497.0,
+                    2148.0,
+                    497.0,
+                    2148.0,
+                    553.0,
+                    1760.0,
+                    553.0
+                ],
+                "score": 1.0,
+                "text": "on and of capital"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1749.0,
+                    562.0,
+                    2157.0,
+                    562.0,
+                    2157.0,
+                    620.0,
+                    1749.0,
+                    620.0
+                ],
+                "score": 0.99,
+                "text": "through the cycles"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1691.0,
+                    1040.0,
+                    2217.0,
+                    1040.0,
+                    2217.0,
+                    1105.0,
+                    1691.0,
+                    1105.0
+                ],
+                "score": 1.0,
+                "text": "We are progressing our"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1616.0,
+                    1108.0,
+                    2293.0,
+                    1108.0,
+                    2293.0,
+                    1152.0,
+                    1616.0,
+                    1152.0
+                ],
+                "score": 0.97,
+                "text": "2050 Net-Zer0 ambition and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1542.0,
+                    1169.0,
+                    2369.0,
+                    1169.0,
+                    2369.0,
+                    1220.0,
+                    1542.0,
+                    1220.0
+                ],
+                "score": 0.98,
+                "text": "accelerating our 2030 GHG emissions"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1677.0,
+                    1232.0,
+                    2234.0,
+                    1232.0,
+                    2234.0,
+                    1289.0,
+                    1677.0,
+                    1289.0
+                ],
+                "score": 0.99,
+                "text": "intensity reduction target"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1653.0,
+                    239.0,
+                    2257.0,
+                    239.0,
+                    2257.0,
+                    306.0,
+                    1653.0,
+                    306.0
+                ],
+                "score": 0.98,
+                "text": "What You'll Hear Today"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1661.0,
+                    773.0,
+                    2244.0,
+                    773.0,
+                    2244.0,
+                    832.0,
+                    1661.0,
+                    832.0
+                ],
+                "score": 1.0,
+                "text": "We have a deep, durable"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1717.0,
+                    837.0,
+                    2190.0,
+                    837.0,
+                    2190.0,
+                    896.0,
+                    1717.0,
+                    896.0
+                ],
+                "score": 0.97,
+                "text": "and diverse portfolio"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    90.0,
+                    70.0,
+                    1849.0,
+                    70.0,
+                    1849.0,
+                    163.0,
+                    90.0,
+                    163.0
+                ],
+                "score": 1.0,
+                "text": "ConocoPhillips Remains the Must-Own E&P Company"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2387.0,
+                    1456.0,
+                    2537.0,
+                    1456.0,
+                    2537.0,
+                    1485.0,
+                    2387.0,
+                    1485.0
+                ],
+                "score": 0.99,
+                "text": "ConocoPhillips"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2567.0,
+                    1463.0,
+                    2579.0,
+                    1463.0,
+                    2579.0,
+                    1479.0,
+                    2567.0,
+                    1479.0
+                ],
+                "score": 1.0,
+                "text": "5"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    581.0,
+                    248.0,
+                    852.0,
+                    248.0,
+                    852.0,
+                    305.0,
+                    581.0,
+                    305.0
+                ],
+                "score": 1.0,
+                "text": "The Macro"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    548.0,
+                    311.0,
+                    887.0,
+                    311.0,
+                    887.0,
+                    353.0,
+                    548.0,
+                    353.0
+                ],
+                "score": 0.99,
+                "text": "Oil Price ($/BBL WTI)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    581.0,
+                    248.0,
+                    852.0,
+                    248.0,
+                    852.0,
+                    305.0,
+                    581.0,
+                    305.0
+                ],
+                "score": 1.0,
+                "text": "The Macro"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    548.0,
+                    311.0,
+                    887.0,
+                    311.0,
+                    887.0,
+                    353.0,
+                    548.0,
+                    353.0
+                ],
+                "score": 0.99,
+                "text": "Oil Price ($/BBL WTI)"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "height": 1500,
+            "width": 2667
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 0,
+                "poly": [
+                    1994,
+                    235,
+                    2472,
+                    235,
+                    2472,
+                    354,
+                    1994,
+                    354
+                ],
+                "score": 0.933
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    894,
+                    218,
+                    1767,
+                    218,
+                    1767,
+                    1384,
+                    894,
+                    1384
+                ],
+                "score": 0.871
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    1983,
+                    631,
+                    2482,
+                    631,
+                    2482,
+                    745,
+                    1983,
+                    745
+                ],
+                "score": 0.868
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    117,
+                    468,
+                    762,
+                    468,
+                    762,
+                    1138,
+                    117,
+                    1138
+                ],
+                "score": 0.85
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    2028,
+                    984,
+                    2438,
+                    984,
+                    2438,
+                    1146,
+                    2028,
+                    1146
+                ],
+                "score": 0.822
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    2385,
+                    1456,
+                    2582,
+                    1456,
+                    2582,
+                    1484,
+                    2385,
+                    1484
+                ],
+                "score": 0.788
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    2039,
+                    459,
+                    2427,
+                    459,
+                    2427,
+                    569,
+                    2039,
+                    569
+                ],
+                "score": 0.776
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    1999,
+                    806,
+                    2470,
+                    806,
+                    2470,
+                    917,
+                    1999,
+                    917
+                ],
+                "score": 0.747
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    2003,
+                    1207,
+                    2464,
+                    1207,
+                    2464,
+                    1368,
+                    2003,
+                    1368
+                ],
+                "score": 0.715
+            },
+            {
+                "category_id": 7,
+                "poly": [
+                    82,
+                    1427,
+                    849,
+                    1427,
+                    849,
+                    1485,
+                    82,
+                    1485
+                ],
+                "score": 0.714
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    74,
+                    69,
+                    2125,
+                    69,
+                    2125,
+                    152,
+                    74,
+                    152
+                ],
+                "score": 0.526
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    2217,
+                    402,
+                    2244,
+                    402,
+                    2244,
+                    447,
+                    2217,
+                    447
+                ],
+                "score": 0.495
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    110,
+                    233,
+                    770,
+                    233,
+                    770,
+                    358,
+                    110,
+                    358
+                ],
+                "score": 0.387
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    110,
+                    233,
+                    770,
+                    233,
+                    770,
+                    358,
+                    110,
+                    358
+                ],
+                "score": 0.374
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    82,
+                    1427,
+                    849,
+                    1427,
+                    849,
+                    1485,
+                    82,
+                    1485
+                ],
+                "score": 0.305
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    2410,
+                    61,
+                    2603,
+                    61,
+                    2603,
+                    158,
+                    2410,
+                    158
+                ],
+                "score": 0.268
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    2385,
+                    1456,
+                    2581,
+                    1456,
+                    2581,
+                    1484,
+                    2385,
+                    1484
+                ],
+                "score": 0.255
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    100,
+                    205,
+                    1795,
+                    205,
+                    1795,
+                    1422,
+                    100,
+                    1422
+                ],
+                "score": 0.147
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    2031,
+                    1038,
+                    2436,
+                    1038,
+                    2436,
+                    1145,
+                    2031,
+                    1145
+                ],
+                "score": 0.133
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    72,
+                    69,
+                    2121,
+                    69,
+                    2121,
+                    153,
+                    72,
+                    153
+                ],
+                "score": 0.118
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    2003,
+                    863,
+                    2466,
+                    863,
+                    2466,
+                    916,
+                    2003,
+                    916
+                ],
+                "score": 0.11
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    2068,
+                    398,
+                    2369,
+                    398,
+                    2369,
+                    570,
+                    2068,
+                    570
+                ],
+                "score": 0.108
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    2076,
+                    398,
+                    2402,
+                    398,
+                    2402,
+                    569,
+                    2076,
+                    569
+                ],
+                "score": 0.103
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    2090,
+                    1037,
+                    2219,
+                    1037,
+                    2219,
+                    1088,
+                    2090,
+                    1088
+                ],
+                "score": 0.36,
+                "latex": ">30\\%"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2000.0,
+                    238.0,
+                    2470.0,
+                    238.0,
+                    2470.0,
+                    287.0,
+                    2000.0,
+                    287.0
+                ],
+                "score": 1.0,
+                "text": "Clear and Consistent"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2108.0,
+                    292.0,
+                    2358.0,
+                    292.0,
+                    2358.0,
+                    351.0,
+                    2108.0,
+                    351.0
+                ],
+                "score": 1.0,
+                "text": "Priorities"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2213.0,
+                    635.0,
+                    2250.0,
+                    635.0,
+                    2250.0,
+                    681.0,
+                    2213.0,
+                    681.0
+                ],
+                "score": 1.0,
+                "text": "2"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1987.0,
+                    688.0,
+                    2476.0,
+                    688.0,
+                    2476.0,
+                    743.0,
+                    1987.0,
+                    743.0
+                ],
+                "score": 1.0,
+                "text": "Annual dividend growth"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2220.0,
+                    1041.0,
+                    2370.0,
+                    1041.0,
+                    2370.0,
+                    1086.0,
+                    2220.0,
+                    1086.0
+                ],
+                "score": 0.98,
+                "text": "of CFO"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2036.0,
+                    1088.0,
+                    2433.0,
+                    1088.0,
+                    2433.0,
+                    1145.0,
+                    2036.0,
+                    1145.0
+                ],
+                "score": 1.0,
+                "text": "shareholder payout"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2387.0,
+                    1456.0,
+                    2537.0,
+                    1456.0,
+                    2537.0,
+                    1485.0,
+                    2387.0,
+                    1485.0
+                ],
+                "score": 1.0,
+                "text": "ConocoPhillips"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2567.0,
+                    1463.0,
+                    2579.0,
+                    1463.0,
+                    2579.0,
+                    1479.0,
+                    2567.0,
+                    1479.0
+                ],
+                "score": 1.0,
+                "text": "6"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2045.0,
+                    465.0,
+                    2423.0,
+                    465.0,
+                    2423.0,
+                    513.0,
+                    2045.0,
+                    513.0
+                ],
+                "score": 0.99,
+                "text": "Sustain production"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2057.0,
+                    517.0,
+                    2409.0,
+                    517.0,
+                    2409.0,
+                    564.0,
+                    2057.0,
+                    564.0
+                ],
+                "score": 1.0,
+                "text": "and pay dividend"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2212.0,
+                    809.0,
+                    2249.0,
+                    809.0,
+                    2249.0,
+                    857.0,
+                    2212.0,
+                    857.0
+                ],
+                "score": 1.0,
+                "text": "3"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2007.0,
+                    864.0,
+                    2464.0,
+                    864.0,
+                    2464.0,
+                    911.0,
+                    2007.0,
+                    911.0
+                ],
+                "score": 0.98,
+                "text": "'A'-rated balance sheet"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2215.0,
+                    1210.0,
+                    2249.0,
+                    1210.0,
+                    2249.0,
+                    1256.0,
+                    2215.0,
+                    1256.0
+                ],
+                "score": 1.0,
+                "text": "5"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2009.0,
+                    1268.0,
+                    2461.0,
+                    1268.0,
+                    2461.0,
+                    1313.0,
+                    2009.0,
+                    1313.0
+                ],
+                "score": 0.99,
+                "text": "Disciplined investment"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2037.0,
+                    1318.0,
+                    2424.0,
+                    1318.0,
+                    2424.0,
+                    1363.0,
+                    2037.0,
+                    1363.0
+                ],
+                "score": 1.0,
+                "text": "to enhance returns"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    88.0,
+                    1427.0,
+                    753.0,
+                    1427.0,
+                    753.0,
+                    1461.0,
+                    88.0,
+                    1461.0
+                ],
+                "score": 0.98,
+                "text": "1Scope 1 and 2 emissions on a gross operated and net equity basis."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    88.0,
+                    1458.0,
+                    844.0,
+                    1458.0,
+                    844.0,
+                    1486.0,
+                    88.0,
+                    1486.0
+                ],
+                "score": 0.97,
+                "text": "Cash from operations (CFO) is a non-GAAP measure defined in the Appendix."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    87.0,
+                    74.0,
+                    2099.0,
+                    74.0,
+                    2099.0,
+                    151.0,
+                    87.0,
+                    151.0
+                ],
+                "score": 0.99,
+                "text": "We Are Committed to Our Returns-Focused Value Proposition"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2216.0,
+                    404.0,
+                    2244.0,
+                    404.0,
+                    2244.0,
+                    448.0,
+                    2216.0,
+                    448.0
+                ],
+                "score": 1.0,
+                "text": "1"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    232.0,
+                    236.0,
+                    649.0,
+                    236.0,
+                    649.0,
+                    303.0,
+                    232.0,
+                    303.0
+                ],
+                "score": 0.98,
+                "text": "Triple Mandate"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    115.0,
+                    302.0,
+                    767.0,
+                    302.0,
+                    767.0,
+                    356.0,
+                    115.0,
+                    356.0
+                ],
+                "score": 0.99,
+                "text": "Aligned to Business Realities"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    232.0,
+                    236.0,
+                    649.0,
+                    236.0,
+                    649.0,
+                    303.0,
+                    232.0,
+                    303.0
+                ],
+                "score": 0.98,
+                "text": "Triple Mandate"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    115.0,
+                    302.0,
+                    767.0,
+                    302.0,
+                    767.0,
+                    356.0,
+                    115.0,
+                    356.0
+                ],
+                "score": 0.99,
+                "text": "Aligned to Business Realities"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    88.0,
+                    1427.0,
+                    753.0,
+                    1427.0,
+                    753.0,
+                    1461.0,
+                    88.0,
+                    1461.0
+                ],
+                "score": 0.98,
+                "text": "1Scope 1 and 2 emissions on a gross operated and net equity basis."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    88.0,
+                    1458.0,
+                    844.0,
+                    1458.0,
+                    844.0,
+                    1486.0,
+                    88.0,
+                    1486.0
+                ],
+                "score": 0.97,
+                "text": "Cash from operations (CFO) is a non-GAAP measure defined in the Appendix."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2386.0,
+                    1456.0,
+                    2537.0,
+                    1456.0,
+                    2537.0,
+                    1485.0,
+                    2386.0,
+                    1485.0
+                ],
+                "score": 1.0,
+                "text": "ConocoPhillips"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2567.0,
+                    1463.0,
+                    2580.0,
+                    1463.0,
+                    2580.0,
+                    1479.0,
+                    2567.0,
+                    1479.0
+                ],
+                "score": 1.0,
+                "text": "6"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2220.0,
+                    1041.0,
+                    2370.0,
+                    1041.0,
+                    2370.0,
+                    1085.0,
+                    2220.0,
+                    1085.0
+                ],
+                "score": 0.98,
+                "text": "of CFO"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2037.0,
+                    1090.0,
+                    2431.0,
+                    1090.0,
+                    2431.0,
+                    1143.0,
+                    2037.0,
+                    1143.0
+                ],
+                "score": 1.0,
+                "text": "shareholder payout"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    89.0,
+                    73.0,
+                    2097.0,
+                    73.0,
+                    2097.0,
+                    153.0,
+                    89.0,
+                    153.0
+                ],
+                "score": 1.0,
+                "text": "We Are Committed to Our Returns-Focused Value Proposition"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2008.0,
+                    868.0,
+                    2462.0,
+                    868.0,
+                    2462.0,
+                    911.0,
+                    2008.0,
+                    911.0
+                ],
+                "score": 0.98,
+                "text": "'A'-rated balance sheet"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2067.0,
+                    467.0,
+                    2370.0,
+                    467.0,
+                    2370.0,
+                    513.0,
+                    2067.0,
+                    513.0
+                ],
+                "score": 1.0,
+                "text": "ustain producti"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2063.0,
+                    517.0,
+                    2370.0,
+                    517.0,
+                    2370.0,
+                    565.0,
+                    2063.0,
+                    565.0
+                ],
+                "score": 1.0,
+                "text": "and pay divider"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2076.0,
+                    467.0,
+                    2404.0,
+                    467.0,
+                    2404.0,
+                    513.0,
+                    2076.0,
+                    513.0
+                ],
+                "score": 0.98,
+                "text": "ustain productiol"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2072.0,
+                    518.0,
+                    2401.0,
+                    518.0,
+                    2401.0,
+                    564.0,
+                    2072.0,
+                    564.0
+                ],
+                "score": 0.98,
+                "text": "ind pay dividenc"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "height": 1500,
+            "width": 2667
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 0,
+                "poly": [
+                    79,
+                    70,
+                    1128,
+                    70,
+                    1128,
+                    155,
+                    79,
+                    155
+                ],
+                "score": 0.86
+            },
+            {
+                "category_id": 7,
+                "poly": [
+                    87,
+                    1415,
+                    1898,
+                    1415,
+                    1898,
+                    1476,
+                    87,
+                    1476
+                ],
+                "score": 0.84
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    2385,
+                    1455,
+                    2581,
+                    1455,
+                    2581,
+                    1484,
+                    2385,
+                    1484
+                ],
+                "score": 0.837
+            },
+            {
+                "category_id": 5,
+                "poly": [
+                    62,
+                    222,
+                    2571,
+                    222,
+                    2571,
+                    1366,
+                    62,
+                    1366
+                ],
+                "score": 0.77,
+                "html": "<html><body><table><tr><td></td><td>2016 $43/BBL WTI</td><td>2019 $57/BBLWTI</td><td>2022 $94/BBL WTI</td><td colspan=\"2\">Foundational Principles</td></tr><tr><td>Return on Capital Employed</td><td>-4%</td><td>10%</td><td>27%</td><td rowspan=\"3\">Peer-Leading Distributions and Returns</td></tr><tr><td>Return of Capital1</td><td>$1.11/share</td><td>$4.45/share</td><td>$11.73/share</td></tr><tr><td>Net Debt</td><td>$24B</td><td>$7B</td><td>$7B</td></tr><tr><td>Cash From Operations Free Cash Flow</td><td>$5B|$OB</td><td>$12B|$5B</td><td>$29B丨$18B</td><td rowspan=\"3\">Disciplined Investments</td></tr><tr><td>Resource <$40/BBL WTI</td><td>~10 BBOE</td><td>~15 BBOE</td><td>~20 BBOE</td></tr><tr><td>Production</td><td>1.6 MMBOED</td><td>1.3 MMBOED</td><td>1.7 MMBOED</td></tr><tr><td>Emissions Intensity2 (kg CO2e/BOE)</td><td>~39</td><td>~36</td><td>~22</td><td>ESG Excellence</td></tr></table></body></html>"
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    2411,
+                    62,
+                    2602,
+                    62,
+                    2602,
+                    158,
+                    2411,
+                    158
+                ],
+                "score": 0.346
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    62,
+                    222,
+                    2571,
+                    222,
+                    2571,
+                    1366,
+                    62,
+                    1366
+                ],
+                "score": 0.233
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    86.0,
+                    72.0,
+                    1118.0,
+                    72.0,
+                    1118.0,
+                    153.0,
+                    86.0,
+                    153.0
+                ],
+                "score": 0.98,
+                "text": "We Are Continuously Improving"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    81.0,
+                    1410.0,
+                    1896.0,
+                    1410.0,
+                    1896.0,
+                    1461.0,
+                    81.0,
+                    1461.0
+                ],
+                "score": 0.88,
+                "text": "1Defined in the Appendix and presented on a per-share basisusing aerage outstandingdiluted shares. Gross operated GHG emissons Scope and 2), 2 isa preliminary estimate."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    85.0,
+                    1445.0,
+                    1896.0,
+                    1445.0,
+                    1896.0,
+                    1486.0,
+                    85.0,
+                    1486.0
+                ],
+                "score": 0.98,
+                "text": "Cash from operations (CFO), free cash flow (FCF), net debt and return on capital employed (ROCE) are non-GAAP measures. Definitions and reconciliations are included in the Appendix."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2386.0,
+                    1456.0,
+                    2536.0,
+                    1456.0,
+                    2536.0,
+                    1486.0,
+                    2386.0,
+                    1486.0
+                ],
+                "score": 0.96,
+                "text": "ConocoPhillips"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "height": 1500,
+            "width": 2667
+        }
+    }
+]

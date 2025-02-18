@@ -39,6 +39,13 @@ def read_markdown_file(
             md_content = md_path.read_text()
             pattern = r"\n\{\d+\}-+\s\n*"
             md_content_pages = re.split(pattern, md_content)
+        case "gemini":
+            md_path = markdown_dir / pdf_filename.replace(".pdf", ".md")
+            md_content = md_path.read_text()
+            pattern = r"--- end page \d+"
+            md_content_pages = re.split(pattern, md_content)
+            if not md_content_pages[-1].strip():
+                md_content_pages.pop()
         case "pymupdf":
             md_path = markdown_dir / pdf_filename.replace(".pdf", ".md")
             md_content = md_path.read_text()
@@ -56,7 +63,7 @@ def read_pdf_file(pdf_path: Path) -> bytes:
 
 st.title("PDF and Markdown Viewer")
 
-method = st.selectbox("Choose method", options=["docling", "llamaparse", "marker-pdf", "pymupdf"])
+method = st.selectbox("Choose method", options=["docling", "llamaparse", "marker-pdf", "pymupdf", "gemini"])
 markdown_folder = repo_folder / f"{method}-folder" / "md"
 filename = st.selectbox("Choose filename", options=pdfs_files)
 num_pages_file = pdf_pages[filename]
@@ -81,3 +88,6 @@ if filename:
     with col2:
         st.subheader("Markdown Content")
         st.markdown(md_content_pages[page - 1])
+        st.divider()
+        st.subheader("Raw text Content")
+        st.text(md_content_pages[page - 1])

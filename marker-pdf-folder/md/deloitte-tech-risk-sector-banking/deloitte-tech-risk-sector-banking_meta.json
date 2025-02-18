@@ -1,0 +1,277 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.19175389409065,
+          27.60479301214218
+        ],
+        [
+          172.9798722267151,
+          27.60479301214218
+        ],
+        [
+          172.9798722267151,
+          69.60946008563042
+        ],
+        [
+          33.19175389409065,
+          69.60946008563042
+        ]
+      ]
+    },
+    {
+      "title": "Pushing through undercurrents",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.14179992675781,
+          95.15498811006546
+        ],
+        [
+          483.02224230766296,
+          93.51045686006546
+        ],
+        [
+          481.85817980766296,
+          133.93848329782486
+        ],
+        [
+          35.44024658203125,
+          135.58301454782486
+        ]
+      ]
+    },
+    {
+      "title": "Technology's impact on systemic risk: A look at banking",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.14179992675781,
+          138.14563116431236
+        ],
+        [
+          454.5461573600769,
+          136.50109991431236
+        ],
+        [
+          453.3820948600769,
+          156.321533203125
+        ],
+        [
+          36.14179992675781,
+          157.4540681540966
+        ]
+      ]
+    },
+    {
+      "title": "Risk 1: Risk exposure from Banking as a Service offerings",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.17919921875,
+          308.36444091796875
+        ],
+        [
+          416.33536529541016,
+          308.36444091796875
+        ],
+        [
+          416.33536529541016,
+          338.36444091796875
+        ],
+        [
+          70.17919921875,
+          338.36444091796875
+        ]
+      ]
+    },
+    {
+      "title": "What could go wrong?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.86930084228516,
+          354.0189769268036
+        ],
+        [
+          161.76583862304688,
+          352.3744456768036
+        ],
+        [
+          161.76583862304688,
+          364.2857360839844
+        ],
+        [
+          66.42470717430115,
+          365.6449717283249
+        ]
+      ]
+    },
+    {
+      "title": "Risk 2: Inadequate stability mechanisms for stablecoin arrangements\n^",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          61.20000076293945,
+          30.10614013671875
+        ],
+        [
+          474.27239990234375,
+          30.10614013671875
+        ],
+        [
+          474.27239990234375,
+          60.10614013671875
+        ],
+        [
+          61.20000076293945,
+          60.10614013671875
+        ]
+      ]
+    },
+    {
+      "title": "What could go wrong?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          66.05415692925453,
+          76.20425975322723
+        ],
+        [
+          162.31432008743286,
+          74.55972850322723
+        ],
+        [
+          162.31432008743286,
+          84.98016357421875
+        ],
+        [
+          66.05415692925453,
+          85.73873180150986
+        ]
+      ]
+    },
+    {
+      "title": "Neal Baumann",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          105.10880815982819,
+          573.0800950527191
+        ],
+        [
+          170.8606482744217,
+          571.4355638027191
+        ],
+        [
+          169.6965857744217,
+          582.0448303222656
+        ],
+        [
+          103.94474565982819,
+          583.6876428127289
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "TableCell",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2993
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2706
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/deloitte-tech-risk-sector-banking"
+}

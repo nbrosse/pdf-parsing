@@ -1,0 +1,552 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.31710381805897,
+          116.22616767883301
+        ],
+        [
+          96.09769159555435,
+          116.22616767883301
+        ],
+        [
+          96.09769159555435,
+          133.01397228240967
+        ],
+        [
+          35.31710381805897,
+          133.01397228240967
+        ]
+      ]
+    },
+    {
+      "title": "Table 1: XC9500 Device Family",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.0,
+          509.44407749176025
+        ],
+        [
+          186.72506296634674,
+          507.89720249176025
+        ],
+        [
+          185.52975046634674,
+          521.2887878417969
+        ],
+        [
+          34.84273651242256,
+          522.2725467681885
+        ]
+      ]
+    },
+    {
+      "title": "XC9500 In-System Programmable \nCPLD Family",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          313.932989358902,
+          45.55739361047745
+        ],
+        [
+          542.2562077045441,
+          44.01051861047745
+        ],
+        [
+          541.6325073242188,
+          77.84394818544388
+        ],
+        [
+          312.737676858902,
+          79.39082318544388
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          313.60206055641174,
+          93.7126761674881
+        ],
+        [
+          418.84398579597473,
+          92.1658011674881
+        ],
+        [
+          418.84398579597473,
+          104.3190940618515
+        ],
+        [
+          313.60206055641174,
+          105.8659690618515
+        ]
+      ]
+    },
+    {
+      "title": "Family Overview",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          315.0,
+          168.40463876724243
+        ],
+        [
+          426.15998554229736,
+          166.85776376724243
+        ],
+        [
+          424.96467304229736,
+          182.8284912109375
+        ],
+        [
+          313.95104598999023,
+          183.98864436149597
+        ]
+      ]
+    },
+    {
+      "title": "\u2013 PRODUCT OBSOLETE / UNDER OBSOLESCENCE \u2013",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          156.83999633789062,
+          2.9593586549162865
+        ],
+        [
+          458.7197027206421,
+          2.9593586549162865
+        ],
+        [
+          458.7197027206421,
+          18.921186715364456
+        ],
+        [
+          156.83999633789062,
+          18.921186715364456
+        ]
+      ]
+    },
+    {
+      "title": "XC9500 In-System Programmable CPLD Family",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.09696567058563,
+          30.103844225406647
+        ],
+        [
+          260.7817454338074,
+          28.556969225406647
+        ],
+        [
+          260.7817454338074,
+          40.868896484375
+        ],
+        [
+          35.09696567058563,
+          42.275618612766266
+        ]
+      ]
+    },
+    {
+      "title": "Table 2: Available Packages and Device I/O Pins (not including dedicated JTAG pins)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.0,
+          51.375269651412964
+        ],
+        [
+          442.2195167541504,
+          49.828394651412964
+        ],
+        [
+          442.2195167541504,
+          62.88677978515625
+        ],
+        [
+          36.0,
+          63.65681183338165
+        ]
+      ]
+    },
+    {
+      "title": "Architecture Description",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.999664306640625,
+          266.82876205444336
+        ],
+        [
+          200.839621424675,
+          265.28188705444336
+        ],
+        [
+          199.644308924675,
+          281.4689636230469
+        ],
+        [
+          34.85356593132019,
+          282.11850357055664
+        ]
+      ]
+    },
+    {
+      "title": "\u2013 PRODUCT OBSOLETE / UNDER OBSOLESCENCE \u2013",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          154.22631883621216,
+          2.498064838349819
+        ],
+        [
+          457.8978524208069,
+          2.498064838349819
+        ],
+        [
+          457.8978524208069,
+          18.19500732421875
+        ],
+        [
+          154.22631883621216,
+          18.19500732421875
+        ]
+      ]
+    },
+    {
+      "title": "R",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.944665282964706,
+          24.3631189763546
+        ],
+        [
+          95.41074621677399,
+          24.3631189763546
+        ],
+        [
+          95.41074621677399,
+          42.740981072187424
+        ],
+        [
+          34.944665282964706,
+          42.740981072187424
+        ]
+      ]
+    },
+    {
+      "title": "XC9500 In-System Programmable CPLD Family",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          349.8922047615051,
+          30.233704447746277
+        ],
+        [
+          576.7479114532471,
+          28.686829447746277
+        ],
+        [
+          576.7479114532471,
+          40.868896484375
+        ],
+        [
+          349.8922047615051,
+          42.082383155822754
+        ]
+      ]
+    },
+    {
+      "title": "Function Block",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.999664306640625,
+          470.17456340789795
+        ],
+        [
+          140.79568719863892,
+          468.62768840789795
+        ],
+        [
+          139.60037469863892,
+          485.7084045410156
+        ],
+        [
+          35.17187789082527,
+          486.1568298339844
+        ]
+      ]
+    },
+    {
+      "title": "\u2013 PRODUCT OBSOLETE / UNDER OBSOLESCENCE \u2013",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          156.83999633789062,
+          3.1667060181498528
+        ],
+        [
+          459.0161962509155,
+          3.1667060181498528
+        ],
+        [
+          459.0161962509155,
+          18.19500732421875
+        ],
+        [
+          156.83999633789062,
+          18.19500732421875
+        ]
+      ]
+    },
+    {
+      "title": "XC9500 In-System Programmable CPLD Family",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.6977681517601,
+          30.500098764896393
+        ],
+        [
+          261.21546936035156,
+          28.953223764896393
+        ],
+        [
+          261.21546936035156,
+          40.96948689222336
+        ],
+        [
+          35.6977681517601,
+          42.51636189222336
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          168
+        ],
+        [
+          "TableCell",
+          126
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 0,
+        "llm_tokens_used": 8481
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          140
+        ],
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 4268
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 1,
+        "llm_tokens_used": 9342
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 0,
+        "llm_tokens_used": 6286
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/XC9500_CPLD_Family-1-4"
+}

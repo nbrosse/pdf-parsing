@@ -1,0 +1,452 @@
+{
+  "table_of_contents": [
+    {
+      "title": "2023 Analyst & Investor Meeting",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          328.5,
+          381.0
+        ],
+        [
+          915.0,
+          381.0
+        ],
+        [
+          915.0,
+          419.99205708503723
+        ],
+        [
+          328.5,
+          419.99205708503723
+        ]
+      ]
+    },
+    {
+      "title": "Today's Agenda",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.75,
+          22.5
+        ],
+        [
+          218.25,
+          22.5
+        ],
+        [
+          218.25,
+          56.25
+        ],
+        [
+          27.75,
+          57.138519287109375
+        ]
+      ]
+    },
+    {
+      "title": "Cautionary Statement",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          29.25,
+          23.997331112623215
+        ],
+        [
+          290.25,
+          23.997331112623215
+        ],
+        [
+          290.25,
+          55.166142135858536
+        ],
+        [
+          29.25,
+          55.166142135858536
+        ]
+      ]
+    },
+    {
+      "title": "Opening",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          386.25,
+          341.25
+        ],
+        [
+          552.75,
+          341.25
+        ],
+        [
+          552.75,
+          386.4324724674225
+        ],
+        [
+          386.25,
+          386.4324724674225
+        ]
+      ]
+    },
+    {
+      "title": "ConocoPhillips Remains the Must-Own E&P Company",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          28.762493133544922,
+          24.28055629134178
+        ],
+        [
+          666.0,
+          23.22586879134178
+        ],
+        [
+          666.0,
+          55.76300069689751
+        ],
+        [
+          28.762493133544922,
+          56.81768819689751
+        ]
+      ]
+    },
+    {
+      "title": "What You'll Hear Today",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          592.5,
+          87.25991696119308
+        ],
+        [
+          813.2365036010742,
+          86.20522946119308
+        ],
+        [
+          813.2365036010742,
+          109.06444162130356
+        ],
+        [
+          592.5,
+          110.11912912130356
+        ]
+      ]
+    },
+    {
+      "title": "We Are Committed to Our Returns-Focused Value Proposition",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          28.205909729003906,
+          23.93656298518181
+        ],
+        [
+          759.0,
+          22.88187548518181
+        ],
+        [
+          759.0,
+          55.422346740961075
+        ],
+        [
+          28.205909729003906,
+          56.477034240961075
+        ]
+      ]
+    },
+    {
+      "title": "We Are Continuously Improving",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          27.75,
+          23.505579605698586
+        ],
+        [
+          409.5,
+          22.450892105698586
+        ],
+        [
+          409.5,
+          56.324265003204346
+        ],
+        [
+          27.75,
+          57.378952503204346
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          2
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1635
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 0,
+        "llm_tokens_used": 7324
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          45
+        ],
+        [
+          "Span",
+          45
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2026
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1606
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          30
+        ],
+        [
+          "Span",
+          30
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 3126
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 3530
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          80
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 5108
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/2023-conocophillips-aim-presentation-1-7"
+}

@@ -1,0 +1,4536 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        37,
+                        98,
+                        483,
+                        133
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                36,
+                                96,
+                                485,
+                                136
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        36,
+                                        96,
+                                        485,
+                                        136
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Pushing through undercurrents",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "virtual_lines": [
+                        {
+                            "bbox": [
+                                37,
+                                98,
+                                483,
+                                109.66666666666667
+                            ],
+                            "spans": [],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                37,
+                                109.66666666666667,
+                                483,
+                                121.33333333333334
+                            ],
+                            "spans": [],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                37,
+                                121.33333333333334,
+                                483,
+                                133.0
+                            ],
+                            "spans": [],
+                            "index": 2
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        36,
+                        138,
+                        454,
+                        157
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                35,
+                                140,
+                                452,
+                                158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        140,
+                                        452,
+                                        158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Technology’s impact on systemic risk: A look at banking",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        66,
+                        177,
+                        527,
+                        213
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                178,
+                                509,
+                                190
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        178,
+                                        509,
+                                        190
+                                    ],
+                                    "score": 1.0,
+                                    "content": "As more financial institutions embrace digital innovation, risks emerge that could threaten the stability of the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                190,
+                                528,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        190,
+                                        528,
+                                        203
+                                    ],
+                                    "score": 1.0,
+                                    "content": "financial system. Some of these risks originate from a single sector. Either way, they could proliferate and become ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                68,
+                                204,
+                                246,
+                                214
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        204,
+                                        246,
+                                        214
+                                    ],
+                                    "score": 1.0,
+                                    "content": "systemic without appropriate management.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        66,
+                        224,
+                        524,
+                        285
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                225,
+                                524,
+                                239
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        225,
+                                        524,
+                                        239
+                                    ],
+                                    "score": 1.0,
+                                    "content": "To understand what these technology-driven risks look like, the World Economic Forum (the Forum) and Deloitte ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                237,
+                                498,
+                                250
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        237,
+                                        498,
+                                        250
+                                    ],
+                                    "score": 1.0,
+                                    "content": "consulted over 100 financial services and technology experts in the development of a new report, Pushing ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                251,
+                                513,
+                                262
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        251,
+                                        513,
+                                        262
+                                    ],
+                                    "score": 1.0,
+                                    "content": "through undercurrents. This group shared more specific perspectives on the forces behind technology-driven ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                262,
+                                513,
+                                274
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        262,
+                                        513,
+                                        274
+                                    ],
+                                    "score": 1.0,
+                                    "content": "systemic risk in the banking sector. Here’s a summary of what we learned. You can learn more in the full report ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                275,
+                                282,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        275,
+                                        282,
+                                        285
+                                    ],
+                                    "score": 1.0,
+                                    "content": "from the Forum, and the executive summary from Deloitte.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        76,
+                        309,
+                        93,
+                        335
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                76,
+                                309,
+                                93,
+                                335
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        309,
+                                        93,
+                                        335
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                76,
+                                                309,
+                                                93,
+                                                335
+                                            ],
+                                            "score": 0.413,
+                                            "type": "image",
+                                            "image_path": "959144e032bb85e34228724a3f686fb73aac15c0a1715b3ea8ac49e72b8a2dea.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        309,
+                                        93,
+                                        335
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        99,
+                        320,
+                        415,
+                        334
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                100,
+                                320,
+                                414,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        100,
+                                        320,
+                                        414,
+                                        335
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Risk 1: Risk exposure from Banking as a Service offerings",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        65,
+                        353,
+                        162,
+                        365
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                354,
+                                162,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        354,
+                                        162,
+                                        365
+                                    ],
+                                    "score": 1.0,
+                                    "content": "What could go wrong?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        64,
+                        370,
+                        504,
+                        394
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                369,
+                                505,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        369,
+                                        505,
+                                        383
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Banking as a service (BaaS) increasingly relies on application programming interfaces, introducing vulnerabilities ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                383,
+                                293,
+                                394
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        383,
+                                        293,
+                                        394
+                                    ],
+                                    "score": 1.0,
+                                    "content": "that can pose risks for banks. The risk is growing because:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 15.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        66,
+                        411,
+                        498,
+                        460
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                411,
+                                451,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        411,
+                                        451,
+                                        425
+                                    ],
+                                    "score": 0.9839848875999451,
+                                    "content": "· Customers' sensitive data and funds may be at risk from phishing and social engineering attacks",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                429,
+                                387,
+                                443
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        429,
+                                        387,
+                                        443
+                                    ],
+                                    "score": 0.9706268310546875,
+                                    "content": "· Flawed APls might provide a back door for hackers to penetrate banks' systems ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                448,
+                                494,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        448,
+                                        494,
+                                        461
+                                    ],
+                                    "score": 0.9838640689849854,
+                                    "content": "· Noncompliance with data privacy rules by BaaS providers might expose partner banks to reputational risks",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        63,
+                        472,
+                        519,
+                        496
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                473,
+                                516,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        473,
+                                        516,
+                                        484
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This risk could become systemic if, for example, a malicious actor launches a distributed denial-of-service attack on ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                485,
+                                419,
+                                496
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        485,
+                                        419,
+                                        496
+                                    ],
+                                    "score": 1.0,
+                                    "content": "a BaaS provider, keeping customers from accessing their accounts or making transactions.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 20.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        65,
+                        525,
+                        195,
+                        549
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                526,
+                                184,
+                                536
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        526,
+                                        184,
+                                        536
+                                    ],
+                                    "score": 1.0,
+                                    "content": "What sectoral and regional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                538,
+                                195,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        538,
+                                        195,
+                                        549
+                                    ],
+                                    "score": 1.0,
+                                    "content": "forces could amplify the risk?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 23.0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        214,
+                        525,
+                        360,
+                        537
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                214,
+                                527,
+                                360,
+                                537
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        527,
+                                        360,
+                                        537
+                                    ],
+                                    "score": 1.0,
+                                    "content": "How can the industry mitigate it?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        66,
+                        571,
+                        196,
+                        669
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                571,
+                                184,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        571,
+                                        184,
+                                        584
+                                    ],
+                                    "score": 0.9708389639854431,
+                                    "content": "· A complex BaaS technology",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                584,
+                                98,
+                                595
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        584,
+                                        98,
+                                        595
+                                    ],
+                                    "score": 1.0,
+                                    "content": "stack",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                71,
+                                602,
+                                196,
+                                613
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        602,
+                                        196,
+                                        613
+                                    ],
+                                    "score": 0.9780095815658569,
+                                    "content": " Limited redundancy measures",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                68,
+                                619,
+                                174,
+                                631
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        619,
+                                        174,
+                                        631
+                                    ],
+                                    "score": 0.9788187146186829,
+                                    "content": "· A lack of input validation,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                632,
+                                188,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        632,
+                                        188,
+                                        644
+                                    ],
+                                    "score": 1.0,
+                                    "content": "enabling attackers to upload ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                645,
+                                185,
+                                655
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        645,
+                                        185,
+                                        655
+                                    ],
+                                    "score": 1.0,
+                                    "content": "malicious code into a bank’s",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                656,
+                                172,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        656,
+                                        172,
+                                        668
+                                    ],
+                                    "score": 1.0,
+                                    "content": "systems through its APIs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 29
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        215,
+                        540,
+                        558,
+                        767
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                215,
+                                540,
+                                558,
+                                767
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        540,
+                                        558,
+                                        767
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                215,
+                                                540,
+                                                558,
+                                                767
+                                            ],
+                                            "score": 0.965,
+                                            "html": "<html><body><table><tr><td>Goal</td><td>Mitigation opportunities</td></tr><tr><td>Strong security for BaaS platforms and API connectivity</td><td>· Use input validation protocols · Apply network segmentation and access controlmeasures</td></tr><tr><td>Properly vetted BaaS partners</td><td>· Improve due diligence on BaaS providers</td></tr><tr><td>Institutional knowledge transfer from banks to BaaS partners</td><td>·Help BaaS and other fintech providers get better at risk management and compliance</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "3b88064c84b83051467d739e1c184f2894ea73e878f739ab872c9f3935a01225.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 33,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        540,
+                                        558,
+                                        615.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        615.6666666666666,
+                                        558,
+                                        691.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        691.3333333333333,
+                                        558,
+                                        766.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 33
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                595.2760009765625,
+                841.8900146484375
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        76,
+                        309,
+                        93,
+                        335
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                76,
+                                309,
+                                93,
+                                335
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        309,
+                                        93,
+                                        335
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                76,
+                                                309,
+                                                93,
+                                                335
+                                            ],
+                                            "score": 0.413,
+                                            "type": "image",
+                                            "image_path": "959144e032bb85e34228724a3f686fb73aac15c0a1715b3ea8ac49e72b8a2dea.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        309,
+                                        93,
+                                        335
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        215,
+                        540,
+                        558,
+                        767
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                215,
+                                540,
+                                558,
+                                767
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        540,
+                                        558,
+                                        767
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                215,
+                                                540,
+                                                558,
+                                                767
+                                            ],
+                                            "score": 0.965,
+                                            "html": "<html><body><table><tr><td>Goal</td><td>Mitigation opportunities</td></tr><tr><td>Strong security for BaaS platforms and API connectivity</td><td>· Use input validation protocols · Apply network segmentation and access controlmeasures</td></tr><tr><td>Properly vetted BaaS partners</td><td>· Improve due diligence on BaaS providers</td></tr><tr><td>Institutional knowledge transfer from banks to BaaS partners</td><td>·Help BaaS and other fintech providers get better at risk management and compliance</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "3b88064c84b83051467d739e1c184f2894ea73e878f739ab872c9f3935a01225.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 33,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        540,
+                                        558,
+                                        615.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        615.6666666666666,
+                                        558,
+                                        691.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        691.3333333333333,
+                                        558,
+                                        766.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 33
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        33,
+                        33,
+                        171,
+                        64
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                34,
+                                35,
+                                167,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        35,
+                                        167,
+                                        63
+                                    ],
+                                    "score": 0.9986075758934021,
+                                    "content": "Deloitte",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        37,
+                        98,
+                        483,
+                        133
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                36,
+                                96,
+                                485,
+                                136
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        36,
+                                        96,
+                                        485,
+                                        136
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Pushing through undercurrents",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "virtual_lines": [
+                        {
+                            "bbox": [
+                                37,
+                                98,
+                                483,
+                                109.66666666666667
+                            ],
+                            "spans": [],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                37,
+                                109.66666666666667,
+                                483,
+                                121.33333333333334
+                            ],
+                            "spans": [],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                37,
+                                121.33333333333334,
+                                483,
+                                133.0
+                            ],
+                            "spans": [],
+                            "index": 2
+                        }
+                    ],
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        36,
+                        138,
+                        454,
+                        157
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                35,
+                                140,
+                                452,
+                                158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        140,
+                                        452,
+                                        158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Technology’s impact on systemic risk: A look at banking",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        66,
+                        177,
+                        527,
+                        213
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                178,
+                                509,
+                                190
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        178,
+                                        509,
+                                        190
+                                    ],
+                                    "score": 1.0,
+                                    "content": "As more financial institutions embrace digital innovation, risks emerge that could threaten the stability of the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                190,
+                                528,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        190,
+                                        528,
+                                        203
+                                    ],
+                                    "score": 1.0,
+                                    "content": "financial system. Some of these risks originate from a single sector. Either way, they could proliferate and become ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                68,
+                                204,
+                                246,
+                                214
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        204,
+                                        246,
+                                        214
+                                    ],
+                                    "score": 1.0,
+                                    "content": "systemic without appropriate management.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ],
+                    "bbox_fs": [
+                        67,
+                        178,
+                        528,
+                        214
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        66,
+                        224,
+                        524,
+                        285
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                225,
+                                524,
+                                239
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        225,
+                                        524,
+                                        239
+                                    ],
+                                    "score": 1.0,
+                                    "content": "To understand what these technology-driven risks look like, the World Economic Forum (the Forum) and Deloitte ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                237,
+                                498,
+                                250
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        237,
+                                        498,
+                                        250
+                                    ],
+                                    "score": 1.0,
+                                    "content": "consulted over 100 financial services and technology experts in the development of a new report, Pushing ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                251,
+                                513,
+                                262
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        251,
+                                        513,
+                                        262
+                                    ],
+                                    "score": 1.0,
+                                    "content": "through undercurrents. This group shared more specific perspectives on the forces behind technology-driven ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                262,
+                                513,
+                                274
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        262,
+                                        513,
+                                        274
+                                    ],
+                                    "score": 1.0,
+                                    "content": "systemic risk in the banking sector. Here’s a summary of what we learned. You can learn more in the full report ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                275,
+                                282,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        275,
+                                        282,
+                                        285
+                                    ],
+                                    "score": 1.0,
+                                    "content": "from the Forum, and the executive summary from Deloitte.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ],
+                    "bbox_fs": [
+                        66,
+                        225,
+                        524,
+                        285
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        76,
+                        309,
+                        93,
+                        335
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                76,
+                                309,
+                                93,
+                                335
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        309,
+                                        93,
+                                        335
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                76,
+                                                309,
+                                                93,
+                                                335
+                                            ],
+                                            "score": 0.413,
+                                            "type": "image",
+                                            "image_path": "959144e032bb85e34228724a3f686fb73aac15c0a1715b3ea8ac49e72b8a2dea.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        309,
+                                        93,
+                                        335
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        99,
+                        320,
+                        415,
+                        334
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                100,
+                                320,
+                                414,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        100,
+                                        320,
+                                        414,
+                                        335
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Risk 1: Risk exposure from Banking as a Service offerings",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        65,
+                        353,
+                        162,
+                        365
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                354,
+                                162,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        354,
+                                        162,
+                                        365
+                                    ],
+                                    "score": 1.0,
+                                    "content": "What could go wrong?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        64,
+                        370,
+                        504,
+                        394
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                369,
+                                505,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        369,
+                                        505,
+                                        383
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Banking as a service (BaaS) increasingly relies on application programming interfaces, introducing vulnerabilities ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                383,
+                                293,
+                                394
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        383,
+                                        293,
+                                        394
+                                    ],
+                                    "score": 1.0,
+                                    "content": "that can pose risks for banks. The risk is growing because:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 15.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ],
+                    "bbox_fs": [
+                        64,
+                        369,
+                        505,
+                        394
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        66,
+                        411,
+                        498,
+                        460
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                411,
+                                451,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        411,
+                                        451,
+                                        425
+                                    ],
+                                    "score": 0.9839848875999451,
+                                    "content": "· Customers' sensitive data and funds may be at risk from phishing and social engineering attacks",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                429,
+                                387,
+                                443
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        429,
+                                        387,
+                                        443
+                                    ],
+                                    "score": 0.9706268310546875,
+                                    "content": "· Flawed APls might provide a back door for hackers to penetrate banks' systems ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                448,
+                                494,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        448,
+                                        494,
+                                        461
+                                    ],
+                                    "score": 0.9838640689849854,
+                                    "content": "· Noncompliance with data privacy rules by BaaS providers might expose partner banks to reputational risks",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 18,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ],
+                    "bbox_fs": [
+                        65,
+                        411,
+                        494,
+                        461
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        63,
+                        472,
+                        519,
+                        496
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                473,
+                                516,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        473,
+                                        516,
+                                        484
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This risk could become systemic if, for example, a malicious actor launches a distributed denial-of-service attack on ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                485,
+                                419,
+                                496
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        485,
+                                        419,
+                                        496
+                                    ],
+                                    "score": 1.0,
+                                    "content": "a BaaS provider, keeping customers from accessing their accounts or making transactions.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 20.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ],
+                    "bbox_fs": [
+                        65,
+                        473,
+                        516,
+                        496
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        65,
+                        525,
+                        195,
+                        549
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                526,
+                                184,
+                                536
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        526,
+                                        184,
+                                        536
+                                    ],
+                                    "score": 1.0,
+                                    "content": "What sectoral and regional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                538,
+                                195,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        538,
+                                        195,
+                                        549
+                                    ],
+                                    "score": 1.0,
+                                    "content": "forces could amplify the risk?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 23.0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        214,
+                        525,
+                        360,
+                        537
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                214,
+                                527,
+                                360,
+                                537
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        527,
+                                        360,
+                                        537
+                                    ],
+                                    "score": 1.0,
+                                    "content": "How can the industry mitigate it?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        66,
+                        571,
+                        196,
+                        669
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                571,
+                                184,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        571,
+                                        184,
+                                        584
+                                    ],
+                                    "score": 0.9708389639854431,
+                                    "content": "· A complex BaaS technology",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                584,
+                                98,
+                                595
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        584,
+                                        98,
+                                        595
+                                    ],
+                                    "score": 1.0,
+                                    "content": "stack",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                71,
+                                602,
+                                196,
+                                613
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        602,
+                                        196,
+                                        613
+                                    ],
+                                    "score": 0.9780095815658569,
+                                    "content": " Limited redundancy measures",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                68,
+                                619,
+                                174,
+                                631
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        619,
+                                        174,
+                                        631
+                                    ],
+                                    "score": 0.9788187146186829,
+                                    "content": "· A lack of input validation,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                632,
+                                188,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        632,
+                                        188,
+                                        644
+                                    ],
+                                    "score": 1.0,
+                                    "content": "enabling attackers to upload ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                645,
+                                185,
+                                655
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        645,
+                                        185,
+                                        655
+                                    ],
+                                    "score": 1.0,
+                                    "content": "malicious code into a bank’s",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                656,
+                                172,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        656,
+                                        172,
+                                        668
+                                    ],
+                                    "score": 1.0,
+                                    "content": "systems through its APIs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 29,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ],
+                    "bbox_fs": [
+                        67,
+                        571,
+                        196,
+                        668
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        215,
+                        540,
+                        558,
+                        767
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                215,
+                                540,
+                                558,
+                                767
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        540,
+                                        558,
+                                        767
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                215,
+                                                540,
+                                                558,
+                                                767
+                                            ],
+                                            "score": 0.965,
+                                            "html": "<html><body><table><tr><td>Goal</td><td>Mitigation opportunities</td></tr><tr><td>Strong security for BaaS platforms and API connectivity</td><td>· Use input validation protocols · Apply network segmentation and access controlmeasures</td></tr><tr><td>Properly vetted BaaS partners</td><td>· Improve due diligence on BaaS providers</td></tr><tr><td>Institutional knowledge transfer from banks to BaaS partners</td><td>·Help BaaS and other fintech providers get better at risk management and compliance</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "3b88064c84b83051467d739e1c184f2894ea73e878f739ab872c9f3935a01225.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 33,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        540,
+                                        558,
+                                        615.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        615.6666666666666,
+                                        558,
+                                        691.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        691.3333333333333,
+                                        558,
+                                        766.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 33,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        89,
+                        41,
+                        475,
+                        56
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                43,
+                                475,
+                                56
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        43,
+                                        475,
+                                        56
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Risk 2: Inadequate stability mechanisms for stablecoin arrangements",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        65,
+                        74,
+                        163,
+                        86
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                74,
+                                162,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        74,
+                                        162,
+                                        86
+                                    ],
+                                    "score": 1.0,
+                                    "content": "What could go wrong?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        66,
+                        91,
+                        499,
+                        114
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                91,
+                                500,
+                                104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        91,
+                                        500,
+                                        104
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Stablecoins mimic fiat currencies but without the backing of a central bank, heightening the probability of a run.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                103,
+                                176,
+                                115
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        103,
+                                        176,
+                                        115
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The risk is growing because:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 2.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        63,
+                        132,
+                        517,
+                        192
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                132,
+                                516,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        132,
+                                        516,
+                                        146
+                                    ],
+                                    "score": 0.9814074635505676,
+                                    "content": "· Governance and regulatory gaps could perpetuate illicit activities that might threaten the integrity of the broader",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                145,
+                                140,
+                                158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        145,
+                                        140,
+                                        158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "financial system",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                162,
+                                451,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        162,
+                                        451,
+                                        176
+                                    ],
+                                    "score": 0.9803640246391296,
+                                    "content": "· The novel technologies used for minting and managing stablecoins are exposed to security risks",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                180,
+                                413,
+                                194
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        180,
+                                        413,
+                                        194
+                                    ],
+                                    "score": 0.9914754033088684,
+                                    "content": "· The absence of a stability mechanism like deposit insurance increases the risk of a run ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 5.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        62,
+                        204,
+                        480,
+                        228
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                204,
+                                482,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        204,
+                                        482,
+                                        218
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This risk could become systemic if, for example, a significant stablecoin issuer fails to promptly honor large ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                217,
+                                471,
+                                230
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        217,
+                                        471,
+                                        230
+                                    ],
+                                    "score": 1.0,
+                                    "content": "customer withdrawal requests, touching off a run and eventually collapsing the stablecoin arrangement.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 8.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        57,
+                        260,
+                        557,
+                        515
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                57,
+                                260,
+                                557,
+                                515
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        260,
+                                        554,
+                                        515
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                57,
+                                                260,
+                                                554,
+                                                515
+                                            ],
+                                            "score": 0.477,
+                                            "html": "<html><body><table><tr><td rowspan=\"2\">What sectoral and regional forces could amplify the risk?</td><td colspan=\"2\">How can the industry mitigate it?</td></tr><tr><td>Goal</td><td>Mitigation opportunities</td></tr><tr><td rowspan=\"2\">· A less mature regulatory environment Stringent capital controls, which may encourage individuals in those jurisdictions to park their assets in global stablecoins · Unsecure systems and poorly managed internal processes</td><td>Standardization and oversight of stablecoin arrangements</td><td>· Requirement for anti-money laundering and \"know your customer\" processes for stablecoin issuers</td></tr><tr><td>Investor and customer protection</td><td>tokens · Enforce responsible marketing rules and customer education</td></tr><tr><td></td><td>Transparency of capital reserves</td><td>· Periodically audit and stress-test stablecoin issuers'reserve assets</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "8fc54d52834c3f03c85911b3bf204ba5176fa5053c65b508d7b080271a015aa9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        260,
+                                        557,
+                                        345.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        57,
+                                        345.0,
+                                        557,
+                                        430.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        57,
+                                        430.0,
+                                        557,
+                                        515.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                154,
+                                521,
+                                557,
+                                532
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        521,
+                                        556,
+                                        534
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                157,
+                                                521,
+                                                556,
+                                                534
+                                            ],
+                                            "score": 1.0,
+                                            "content": "To learn more about technology’s impact on systemic risk in banking, including examples, please see pages 60-70 of the full report.",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 13
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 12.0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        35,
+                        569,
+                        92,
+                        583
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                35,
+                                568,
+                                92,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        568,
+                                        92,
+                                        585
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Contacts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        110,
+                        572,
+                        167,
+                        582
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                572,
+                                167,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        572,
+                                        167,
+                                        583
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Neal Baumann",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        244,
+                        572,
+                        290,
+                        582
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                244,
+                                573,
+                                290,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        244,
+                                        573,
+                                        290,
+                                        582
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Rob Galaski",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        110,
+                        587,
+                        223,
+                        617
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                587,
+                                222,
+                                597
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        587,
+                                        222,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Financial Services Industry leader",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                597,
+                                162,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        597,
+                                        162,
+                                        606
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Deloitte Global ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                608,
+                                207,
+                                617
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        608,
+                                        207,
+                                        617
+                                    ],
+                                    "score": 1.0,
+                                    "content": "nealbaumann@deloitte.com",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        244,
+                        587,
+                        356,
+                        617
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                245,
+                                587,
+                                356,
+                                597
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        587,
+                                        356,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Vice-Chair and Managing Partner",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                245,
+                                597,
+                                300,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        597,
+                                        300,
+                                        606
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Deloitte Canada",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                245,
+                                607,
+                                314,
+                                617
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        607,
+                                        314,
+                                        617
+                                    ],
+                                    "score": 1.0,
+                                    "content": "rgalaski@deloitte.ca",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        34,
+                        637,
+                        557,
+                        665
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                34,
+                                637,
+                                559,
+                                650
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        637,
+                                        559,
+                                        650
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited (DTTL), its global network of member firms, and their related entities (collectively, the “Deloitte organization”). DTTL ( also referred to as ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                35,
+                                648,
+                                558,
+                                659
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        648,
+                                        558,
+                                        659
+                                    ],
+                                    "score": 1.0,
+                                    "content": "“Deloitte Global”) and each of its member firms and related entities are legally separate and independent entities, which cannot obligate or bind each other in respect of third parties. DTTL and each DTTL",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                34,
+                                657,
+                                547,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        657,
+                                        547,
+                                        668
+                                    ],
+                                    "score": 1.0,
+                                    "content": "member firm and related entity is liable only for its own acts and omissions, and not those of each other. DTTL does not provide services to clients. Please see www.deloitte.com/about to learn more.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        34,
+                        675,
+                        549,
+                        713
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                35,
+                                676,
+                                534,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        676,
+                                        381,
+                                        687
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Deloitte provides industry-leading audit and assurance, tax and legal, consulting, financial advisory, and risk advisory services to nearly",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        381,
+                                        676,
+                                        394,
+                                        683
+                                    ],
+                                    "score": 0.47,
+                                    "content": "90\\%",
+                                    "type": "inline_equation",
+                                    "height": 7,
+                                    "width": 13
+                                },
+                                {
+                                    "bbox": [
+                                        394,
+                                        676,
+                                        451,
+                                        687
+                                    ],
+                                    "score": 1.0,
+                                    "content": " of the Fortune Global",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        451,
+                                        676,
+                                        467,
+                                        683
+                                    ],
+                                    "score": 0.26,
+                                    "content": "500\\textcircled{{\\textperthous}}",
+                                    "type": "inline_equation",
+                                    "height": 7,
+                                    "width": 16
+                                },
+                                {
+                                    "bbox": [
+                                        467,
+                                        676,
+                                        534,
+                                        687
+                                    ],
+                                    "score": 1.0,
+                                    "content": " and thousands of private ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                36,
+                                686,
+                                544,
+                                696
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        36,
+                                        686,
+                                        544,
+                                        696
+                                    ],
+                                    "score": 1.0,
+                                    "content": "companies. Our people deliver measurable and lasting results that help reinforce public trust in capital markets, enable clients to transform and thrive, and lead the way toward a stronger economy,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                34,
+                                695,
+                                540,
+                                706
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        695,
+                                        540,
+                                        706
+                                    ],
+                                    "score": 1.0,
+                                    "content": "a more equitable society, and a sustainable world. Building on its 175-plus year history, Deloitte spans more than 150 countries and territories. Learn how Deloitte’s approximately 415,000 people ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                34,
+                                704,
+                                195,
+                                716
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        704,
+                                        195,
+                                        716
+                                    ],
+                                    "score": 1.0,
+                                    "content": "worldwide make an impact that matters at www.deloitte.com.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 27.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        35,
+                        722,
+                        553,
+                        770
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                34,
+                                723,
+                                544,
+                                736
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        723,
+                                        544,
+                                        736
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This communication contains general information only, and none of Deloitte Touche Tohmatsu Limited (“DTTL”), its global network of member firms or their related entities (collectively, the “Deloitte ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                34,
+                                732,
+                                552,
+                                744
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        732,
+                                        552,
+                                        744
+                                    ],
+                                    "score": 1.0,
+                                    "content": "organization”) is, by means of this communication, rendering professional advice or services. Before making any decision or taking any action that may affect your finances or your business, you should ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                35,
+                                743,
+                                553,
+                                754
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        743,
+                                        553,
+                                        754
+                                    ],
+                                    "score": 1.0,
+                                    "content": "consult a qualified professional adviser. No representations, warranties or undertakings (express or implied) are given as to the accuracy or completeness of the information in this communication, and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                34,
+                                752,
+                                552,
+                                763
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        752,
+                                        552,
+                                        763
+                                    ],
+                                    "score": 1.0,
+                                    "content": "none of DTTL, its member firms, related entities, employees or agents shall be liable or responsible for any loss or damage whatsoever arising directly or indirectly in connection with any person relying",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                36,
+                                763,
+                                376,
+                                771
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        36,
+                                        763,
+                                        376,
+                                        771
+                                    ],
+                                    "score": 1.0,
+                                    "content": "on this communication. DTTL and each of its member firms, and their related entities, are legally separate and independent entities.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        }
+                    ],
+                    "index": 32
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                595.2760009765625,
+                841.8900146484375
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        57,
+                        260,
+                        557,
+                        515
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                57,
+                                260,
+                                557,
+                                515
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        260,
+                                        554,
+                                        515
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                57,
+                                                260,
+                                                554,
+                                                515
+                                            ],
+                                            "score": 0.477,
+                                            "html": "<html><body><table><tr><td rowspan=\"2\">What sectoral and regional forces could amplify the risk?</td><td colspan=\"2\">How can the industry mitigate it?</td></tr><tr><td>Goal</td><td>Mitigation opportunities</td></tr><tr><td rowspan=\"2\">· A less mature regulatory environment Stringent capital controls, which may encourage individuals in those jurisdictions to park their assets in global stablecoins · Unsecure systems and poorly managed internal processes</td><td>Standardization and oversight of stablecoin arrangements</td><td>· Requirement for anti-money laundering and \"know your customer\" processes for stablecoin issuers</td></tr><tr><td>Investor and customer protection</td><td>tokens · Enforce responsible marketing rules and customer education</td></tr><tr><td></td><td>Transparency of capital reserves</td><td>· Periodically audit and stress-test stablecoin issuers'reserve assets</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "8fc54d52834c3f03c85911b3bf204ba5176fa5053c65b508d7b080271a015aa9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        260,
+                                        557,
+                                        345.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        57,
+                                        345.0,
+                                        557,
+                                        430.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        57,
+                                        430.0,
+                                        557,
+                                        515.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                154,
+                                521,
+                                557,
+                                532
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        521,
+                                        556,
+                                        534
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                157,
+                                                521,
+                                                556,
+                                                534
+                                            ],
+                                            "score": 1.0,
+                                            "content": "To learn more about technology’s impact on systemic risk in banking, including examples, please see pages 60-70 of the full report.",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 13
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 12.0
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        35,
+                        780,
+                        161,
+                        788
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                34,
+                                781,
+                                162,
+                                789
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        781,
+                                        41,
+                                        787
+                                    ],
+                                    "score": 0.47,
+                                    "content": "\\circledcirc",
+                                    "type": "inline_equation",
+                                    "height": 6,
+                                    "width": 7
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        781,
+                                        162,
+                                        789
+                                    ],
+                                    "score": 1.0,
+                                    "content": " 2023. For information, contact Deloitte Global.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        66,
+                        38,
+                        86,
+                        55
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                37,
+                                86,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        37,
+                                        86,
+                                        57
+                                    ],
+                                    "score": 1.0,
+                                    "content": "^",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        89,
+                        41,
+                        475,
+                        56
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                43,
+                                475,
+                                56
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        43,
+                                        475,
+                                        56
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Risk 2: Inadequate stability mechanisms for stablecoin arrangements",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        65,
+                        74,
+                        163,
+                        86
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                74,
+                                162,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        74,
+                                        162,
+                                        86
+                                    ],
+                                    "score": 1.0,
+                                    "content": "What could go wrong?",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        66,
+                        91,
+                        499,
+                        114
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                91,
+                                500,
+                                104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        91,
+                                        500,
+                                        104
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Stablecoins mimic fiat currencies but without the backing of a central bank, heightening the probability of a run.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                103,
+                                176,
+                                115
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        103,
+                                        176,
+                                        115
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The risk is growing because:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 2.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ],
+                    "bbox_fs": [
+                        65,
+                        91,
+                        500,
+                        115
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        63,
+                        132,
+                        517,
+                        192
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                132,
+                                516,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        132,
+                                        516,
+                                        146
+                                    ],
+                                    "score": 0.9814074635505676,
+                                    "content": "· Governance and regulatory gaps could perpetuate illicit activities that might threaten the integrity of the broader",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                145,
+                                140,
+                                158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        145,
+                                        140,
+                                        158
+                                    ],
+                                    "score": 1.0,
+                                    "content": "financial system",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                162,
+                                451,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        162,
+                                        451,
+                                        176
+                                    ],
+                                    "score": 0.9803640246391296,
+                                    "content": "· The novel technologies used for minting and managing stablecoins are exposed to security risks",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                180,
+                                413,
+                                194
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        180,
+                                        413,
+                                        194
+                                    ],
+                                    "score": 0.9914754033088684,
+                                    "content": "· The absence of a stability mechanism like deposit insurance increases the risk of a run ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 5.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ],
+                    "bbox_fs": [
+                        65,
+                        132,
+                        516,
+                        194
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        62,
+                        204,
+                        480,
+                        228
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                204,
+                                482,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        204,
+                                        482,
+                                        218
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This risk could become systemic if, for example, a significant stablecoin issuer fails to promptly honor large ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                217,
+                                471,
+                                230
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        217,
+                                        471,
+                                        230
+                                    ],
+                                    "score": 1.0,
+                                    "content": "customer withdrawal requests, touching off a run and eventually collapsing the stablecoin arrangement.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 8.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ],
+                    "bbox_fs": [
+                        64,
+                        204,
+                        482,
+                        230
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        57,
+                        260,
+                        557,
+                        515
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                57,
+                                260,
+                                557,
+                                515
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        260,
+                                        554,
+                                        515
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                57,
+                                                260,
+                                                554,
+                                                515
+                                            ],
+                                            "score": 0.477,
+                                            "html": "<html><body><table><tr><td rowspan=\"2\">What sectoral and regional forces could amplify the risk?</td><td colspan=\"2\">How can the industry mitigate it?</td></tr><tr><td>Goal</td><td>Mitigation opportunities</td></tr><tr><td rowspan=\"2\">· A less mature regulatory environment Stringent capital controls, which may encourage individuals in those jurisdictions to park their assets in global stablecoins · Unsecure systems and poorly managed internal processes</td><td>Standardization and oversight of stablecoin arrangements</td><td>· Requirement for anti-money laundering and \"know your customer\" processes for stablecoin issuers</td></tr><tr><td>Investor and customer protection</td><td>tokens · Enforce responsible marketing rules and customer education</td></tr><tr><td></td><td>Transparency of capital reserves</td><td>· Periodically audit and stress-test stablecoin issuers'reserve assets</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "8fc54d52834c3f03c85911b3bf204ba5176fa5053c65b508d7b080271a015aa9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        260,
+                                        557,
+                                        345.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        57,
+                                        345.0,
+                                        557,
+                                        430.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        57,
+                                        430.0,
+                                        557,
+                                        515.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                154,
+                                521,
+                                557,
+                                532
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        521,
+                                        556,
+                                        534
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                157,
+                                                521,
+                                                556,
+                                                534
+                                            ],
+                                            "score": 1.0,
+                                            "content": "To learn more about technology’s impact on systemic risk in banking, including examples, please see pages 60-70 of the full report.",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 13
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 12.0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        35,
+                        569,
+                        92,
+                        583
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                35,
+                                568,
+                                92,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        568,
+                                        92,
+                                        585
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Contacts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        110,
+                        572,
+                        167,
+                        582
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                572,
+                                167,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        572,
+                                        167,
+                                        583
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Neal Baumann",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        244,
+                        572,
+                        290,
+                        582
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                244,
+                                573,
+                                290,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        244,
+                                        573,
+                                        290,
+                                        582
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Rob Galaski",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        110,
+                        587,
+                        223,
+                        617
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                587,
+                                222,
+                                597
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        587,
+                                        222,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Financial Services Industry leader",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                597,
+                                162,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        597,
+                                        162,
+                                        606
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Deloitte Global ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                608,
+                                207,
+                                617
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        608,
+                                        207,
+                                        617
+                                    ],
+                                    "score": 1.0,
+                                    "content": "nealbaumann@deloitte.com",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 19,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ],
+                    "bbox_fs": [
+                        110,
+                        587,
+                        222,
+                        617
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        244,
+                        587,
+                        356,
+                        617
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                245,
+                                587,
+                                356,
+                                597
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        587,
+                                        356,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Vice-Chair and Managing Partner",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                245,
+                                597,
+                                300,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        597,
+                                        300,
+                                        606
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Deloitte Canada",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                245,
+                                607,
+                                314,
+                                617
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        607,
+                                        314,
+                                        617
+                                    ],
+                                    "score": 1.0,
+                                    "content": "rgalaski@deloitte.ca",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 20,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ],
+                    "bbox_fs": [
+                        245,
+                        587,
+                        356,
+                        617
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        34,
+                        637,
+                        557,
+                        665
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                34,
+                                637,
+                                559,
+                                650
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        637,
+                                        559,
+                                        650
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited (DTTL), its global network of member firms, and their related entities (collectively, the “Deloitte organization”). DTTL ( also referred to as ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                35,
+                                648,
+                                558,
+                                659
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        648,
+                                        558,
+                                        659
+                                    ],
+                                    "score": 1.0,
+                                    "content": "“Deloitte Global”) and each of its member firms and related entities are legally separate and independent entities, which cannot obligate or bind each other in respect of third parties. DTTL and each DTTL",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                34,
+                                657,
+                                547,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        657,
+                                        547,
+                                        668
+                                    ],
+                                    "score": 1.0,
+                                    "content": "member firm and related entity is liable only for its own acts and omissions, and not those of each other. DTTL does not provide services to clients. Please see www.deloitte.com/about to learn more.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 24,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ],
+                    "bbox_fs": [
+                        34,
+                        637,
+                        559,
+                        668
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        34,
+                        675,
+                        549,
+                        713
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                35,
+                                676,
+                                534,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        676,
+                                        381,
+                                        687
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Deloitte provides industry-leading audit and assurance, tax and legal, consulting, financial advisory, and risk advisory services to nearly",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        381,
+                                        676,
+                                        394,
+                                        683
+                                    ],
+                                    "score": 0.47,
+                                    "content": "90\\%",
+                                    "type": "inline_equation",
+                                    "height": 7,
+                                    "width": 13
+                                },
+                                {
+                                    "bbox": [
+                                        394,
+                                        676,
+                                        451,
+                                        687
+                                    ],
+                                    "score": 1.0,
+                                    "content": " of the Fortune Global",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        451,
+                                        676,
+                                        467,
+                                        683
+                                    ],
+                                    "score": 0.26,
+                                    "content": "500\\textcircled{{\\textperthous}}",
+                                    "type": "inline_equation",
+                                    "height": 7,
+                                    "width": 16
+                                },
+                                {
+                                    "bbox": [
+                                        467,
+                                        676,
+                                        534,
+                                        687
+                                    ],
+                                    "score": 1.0,
+                                    "content": " and thousands of private ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                36,
+                                686,
+                                544,
+                                696
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        36,
+                                        686,
+                                        544,
+                                        696
+                                    ],
+                                    "score": 1.0,
+                                    "content": "companies. Our people deliver measurable and lasting results that help reinforce public trust in capital markets, enable clients to transform and thrive, and lead the way toward a stronger economy,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                34,
+                                695,
+                                540,
+                                706
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        695,
+                                        540,
+                                        706
+                                    ],
+                                    "score": 1.0,
+                                    "content": "a more equitable society, and a sustainable world. Building on its 175-plus year history, Deloitte spans more than 150 countries and territories. Learn how Deloitte’s approximately 415,000 people ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                34,
+                                704,
+                                195,
+                                716
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        704,
+                                        195,
+                                        716
+                                    ],
+                                    "score": 1.0,
+                                    "content": "worldwide make an impact that matters at www.deloitte.com.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 27.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ],
+                    "bbox_fs": [
+                        34,
+                        676,
+                        544,
+                        716
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        35,
+                        722,
+                        553,
+                        770
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                34,
+                                723,
+                                544,
+                                736
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        723,
+                                        544,
+                                        736
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This communication contains general information only, and none of Deloitte Touche Tohmatsu Limited (“DTTL”), its global network of member firms or their related entities (collectively, the “Deloitte ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                34,
+                                732,
+                                552,
+                                744
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        732,
+                                        552,
+                                        744
+                                    ],
+                                    "score": 1.0,
+                                    "content": "organization”) is, by means of this communication, rendering professional advice or services. Before making any decision or taking any action that may affect your finances or your business, you should ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                35,
+                                743,
+                                553,
+                                754
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        743,
+                                        553,
+                                        754
+                                    ],
+                                    "score": 1.0,
+                                    "content": "consult a qualified professional adviser. No representations, warranties or undertakings (express or implied) are given as to the accuracy or completeness of the information in this communication, and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                34,
+                                752,
+                                552,
+                                763
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        34,
+                                        752,
+                                        552,
+                                        763
+                                    ],
+                                    "score": 1.0,
+                                    "content": "none of DTTL, its member firms, related entities, employees or agents shall be liable or responsible for any loss or damage whatsoever arising directly or indirectly in connection with any person relying",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                36,
+                                763,
+                                376,
+                                771
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        36,
+                                        763,
+                                        376,
+                                        771
+                                    ],
+                                    "score": 1.0,
+                                    "content": "on this communication. DTTL and each of its member firms, and their related entities, are legally separate and independent entities.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        }
+                    ],
+                    "index": 32,
+                    "page_num": "page_1",
+                    "page_size": [
+                        595.2760009765625,
+                        841.8900146484375
+                    ],
+                    "bbox_fs": [
+                        34,
+                        723,
+                        553,
+                        771
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "1.1.0"
+}

@@ -1,0 +1,2639 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          31.114195585250854,
+          28.323315605521202
+        ],
+        [
+          180.3897581100464,
+          26.678784355521202
+        ],
+        [
+          180.3897581100464,
+          67.63721327483654
+        ],
+        [
+          31.114195585250854,
+          69.28174452483654
+        ]
+      ]
+    },
+    {
+      "title": "Contents",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.92350509762764,
+          90.45674681663513
+        ],
+        [
+          197.8846036195755,
+          88.81221556663513
+        ],
+        [
+          196.7205411195755,
+          124.78784227371216
+        ],
+        [
+          63.75944259762764,
+          126.43237352371216
+        ]
+      ]
+    },
+    {
+      "title": "Executive summary",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.01570129394531,
+          93.74750313162804
+        ],
+        [
+          290.0056457519531,
+          93.74750313162804
+        ],
+        [
+          290.0056457519531,
+          125.72269013524055
+        ],
+        [
+          34.01570129394531,
+          125.72269013524055
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Key factors for success in Open Data initiatives:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          33.86559343338013,
+          123.01099270582199
+        ],
+        [
+          236.57374906539917,
+          121.36646145582199
+        ],
+        [
+          235.40968656539917,
+          131.95452880859375
+        ],
+        [
+          32.70153093338013,
+          132.760968208313
+        ]
+      ]
+    },
+    {
+      "title": "Context and overview",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.01570129394531,
+          91.60791367292404
+        ],
+        [
+          321.48167848587036,
+          91.60791367292404
+        ],
+        [
+          320.31761598587036,
+          126.21900302171707
+        ],
+        [
+          33.778176844120026,
+          126.21900302171707
+        ]
+      ]
+    },
+    {
+      "title": "What is Open Data?",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.97422042489052,
+          119.81663328409195
+        ],
+        [
+          130.78367614746094,
+          119.81663328409195
+        ],
+        [
+          130.78367614746094,
+          132.37455254793167
+        ],
+        [
+          32.97422042489052,
+          132.37455254793167
+        ]
+      ]
+    },
+    {
+      "title": "How is it manifesting\u2013Background and emerging models",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          33.89702361822128,
+          397.14378267526627
+        ],
+        [
+          315.3326110839844,
+          397.14378267526627
+        ],
+        [
+          315.3326110839844,
+          408.95180612802505
+        ],
+        [
+          33.89702361822128,
+          408.95180612802505
+        ]
+      ]
+    },
+    {
+      "title": "Open Data ecosystem",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          34.01570129394531,
+          91.72022615373135
+        ],
+        [
+          325.2255859375,
+          91.72022615373135
+        ],
+        [
+          325.2255859375,
+          125.70088383555412
+        ],
+        [
+          33.85888820886612,
+          125.70088383555412
+        ]
+      ]
+    },
+    {
+      "title": "Predicting the future is becoming more difficult",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          77.94080352783203,
+          170.74402916431427
+        ],
+        [
+          279.63720703125,
+          170.74402916431427
+        ],
+        [
+          279.63720703125,
+          182.1434326171875
+        ],
+        [
+          77.94080352783203,
+          182.1434326171875
+        ]
+      ]
+    },
+    {
+      "title": "Traditional industry lines are blurring",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          77.94080352783203,
+          213.31143176555634
+        ],
+        [
+          237.1407012939453,
+          213.31143176555634
+        ],
+        [
+          237.1407012939453,
+          223.9138102531433
+        ],
+        [
+          77.94080352783203,
+          223.9138102531433
+        ]
+      ]
+    },
+    {
+      "title": "Technology is now both table stakes and a differentiator",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          76.2818135023117,
+          255.48837864398956
+        ],
+        [
+          317.621458530426,
+          253.84384739398956
+        ],
+        [
+          317.621458530426,
+          264.27044677734375
+        ],
+        [
+          76.2818135023117,
+          265.7924951314926
+        ]
+      ]
+    },
+    {
+      "title": "Emerging hypotheses",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          33.35217306017876,
+          311.23303455114365
+        ],
+        [
+          141.91855466365814,
+          309.58850330114365
+        ],
+        [
+          140.75449216365814,
+          321.5590828061104
+        ],
+        [
+          32.18811056017876,
+          323.2036140561104
+        ]
+      ]
+    },
+    {
+      "title": "Benefits of Open Data",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          33.42646783590317,
+          473.1239318847656
+        ],
+        [
+          145.76266479492188,
+          471.4794006347656
+        ],
+        [
+          145.76266479492188,
+          483.5210266113281
+        ],
+        [
+          32.26240533590317,
+          484.64739441871643
+        ]
+      ]
+    },
+    {
+      "title": "What we know about ecosystems",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          33.23966294527054,
+          390.07018542289734
+        ],
+        [
+          200.75729942321777,
+          390.07018542289734
+        ],
+        [
+          200.75729942321777,
+          401.2819358110428
+        ],
+        [
+          33.23966294527054,
+          401.2819358110428
+        ]
+      ]
+    },
+    {
+      "title": "Figure 3. Three types of ecosystems18",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          34.01570129394531,
+          589.4227247238159
+        ],
+        [
+          183.97972643375397,
+          587.7781934738159
+        ],
+        [
+          182.81566393375397,
+          598.5312805175781
+        ],
+        [
+          32.95236849784851,
+          599.6228535175323
+        ]
+      ]
+    },
+    {
+      "title": "Archetypes, main players, \nand responsibilities",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          33.1855149269104,
+          91.08372811973095
+        ],
+        [
+          376.60955810546875,
+          91.08372811973095
+        ],
+        [
+          376.60955810546875,
+          161.40606474876404
+        ],
+        [
+          33.1855149269104,
+          161.40606474876404
+        ]
+      ]
+    },
+    {
+      "title": "Roles and responsibilities",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          33.618907779455185,
+          228.75528556108475
+        ],
+        [
+          160.106689453125,
+          228.75528556108475
+        ],
+        [
+          160.106689453125,
+          240.2772216796875
+        ],
+        [
+          33.618907779455185,
+          240.2772216796875
+        ]
+      ]
+    },
+    {
+      "title": "Digital identity\nThe role digital ID could play in ecosystems",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          34.01570129394531,
+          88.6916033923626
+        ],
+        [
+          490.34661865234375,
+          87.0470721423626
+        ],
+        [
+          490.34661865234375,
+          159.29483100771904
+        ],
+        [
+          33.369513392448425,
+          160.93936225771904
+        ]
+      ]
+    },
+    {
+      "title": "Digital identity is a key enabler for digital ecosystems.",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          34.01570129394531,
+          228.95731377601624
+        ],
+        [
+          302.1930122375488,
+          227.31278252601624
+        ],
+        [
+          301.5046081542969,
+          240.2772216796875
+        ],
+        [
+          32.982510924339294,
+          240.79364275932312
+        ]
+      ]
+    },
+    {
+      "title": "What is digital ID? And why is it useful?",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          34.01570129394531,
+          541.326709985733
+        ],
+        [
+          227.5716609954834,
+          539.682178735733
+        ],
+        [
+          226.4075984954834,
+          552.3292303085327
+        ],
+        [
+          33.03353279829025,
+          553.9737615585327
+        ]
+      ]
+    },
+    {
+      "title": "Digital ID essentials.",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          34.01570129394531,
+          229.12692111730576
+        ],
+        [
+          137.0697021484375,
+          227.48238986730576
+        ],
+        [
+          137.0697021484375,
+          240.2772216796875
+        ],
+        [
+          34.01570129394531,
+          240.9272659420967
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Led by the state:",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          34.01570129394531,
+          285.4076255559921
+        ],
+        [
+          113.7550277709961,
+          283.7630943059921
+        ],
+        [
+          113.7550277709961,
+          294.358948469162
+        ],
+        [
+          33.16778826713562,
+          296.003479719162
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Led by the private sector:",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          34.01569747924805,
+          399.25655966997147
+        ],
+        [
+          151.30886840820312,
+          397.61202841997147
+        ],
+        [
+          151.30886840820312,
+          408.28281193971634
+        ],
+        [
+          33.3618623316288,
+          409.92734318971634
+        ]
+      ]
+    },
+    {
+      "title": "Value",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          33.78304812312126,
+          91.57719288766384
+        ],
+        [
+          106.97570037841797,
+          91.57719288766384
+        ],
+        [
+          106.97570037841797,
+          124.98872873187065
+        ],
+        [
+          33.78304812312126,
+          124.98872873187065
+        ]
+      ]
+    },
+    {
+      "title": "Common objectives of an Open Data ecosystem",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          33.624853670597076,
+          230.2772216796875
+        ],
+        [
+          272.3346252441406,
+          228.849336206913
+        ],
+        [
+          272.3346252441406,
+          240.2772216796875
+        ],
+        [
+          33.624853670597076,
+          240.60601824522018
+        ]
+      ]
+    },
+    {
+      "title": "Strategic impacts of Open Data on the financial services sector",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          34.01570129394531,
+          343.3561480641365
+        ],
+        [
+          343.8675842285156,
+          341.7116168141365
+        ],
+        [
+          343.8675842285156,
+          354.2772521972656
+        ],
+        [
+          33.05267155170441,
+          355.5872990489006
+        ]
+      ]
+    },
+    {
+      "title": "Value generated by Open Data",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          33.515189945697784,
+          204.4743974506855
+        ],
+        [
+          184.46466064453125,
+          204.4743974506855
+        ],
+        [
+          184.46466064453125,
+          216.3900346159935
+        ],
+        [
+          33.515189945697784,
+          216.3900346159935
+        ]
+      ]
+    },
+    {
+      "title": "Consumers can benefit from participation in an Open Data ecosystem in the following \ncommon ways:",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          33.35066771507263,
+          313.2631533741951
+        ],
+        [
+          461.5229187011719,
+          313.2631533741951
+        ],
+        [
+          461.5229187011719,
+          337.8682376742363
+        ],
+        [
+          33.35066771507263,
+          337.8682376742363
+        ]
+      ]
+    },
+    {
+      "title": "Augmented product and service choices",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          33.03044217824936,
+          349.35998195409775
+        ],
+        [
+          231.85462951660156,
+          349.35998195409775
+        ],
+        [
+          231.85462951660156,
+          360.9831160902977
+        ],
+        [
+          33.03044217824936,
+          360.9831160902977
+        ]
+      ]
+    },
+    {
+      "title": "Better consumer experiences",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          33.97983980178833,
+          565.5842987298965
+        ],
+        [
+          182.59469604492188,
+          565.5842987298965
+        ],
+        [
+          182.59469604492188,
+          576.5078245401382
+        ],
+        [
+          33.97983980178833,
+          576.5078245401382
+        ]
+      ]
+    },
+    {
+      "title": "Increased financial inclusion and literacy",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          32.872811675071716,
+          119.85615563392639
+        ],
+        [
+          236.4786376953125,
+          119.85615563392639
+        ],
+        [
+          236.4786376953125,
+          132.28644907474518
+        ],
+        [
+          32.872811675071716,
+          132.28644907474518
+        ]
+      ]
+    },
+    {
+      "title": "FIs can benefit from participation in Open Data ecosystems in the following common \nways:",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          34.01570129394531,
+          300.90472787618637
+        ],
+        [
+          455.4527893066406,
+          300.90472787618637
+        ],
+        [
+          455.4527893066406,
+          325.4774414896965
+        ],
+        [
+          34.01570129394531,
+          325.4774414896965
+        ]
+      ]
+    },
+    {
+      "title": "New business model development",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          33.743354082107544,
+          336.7188273668289
+        ],
+        [
+          204.21305668354034,
+          336.7188273668289
+        ],
+        [
+          204.21305668354034,
+          348.7553025484085
+        ],
+        [
+          33.743354082107544,
+          348.7553025484085
+        ]
+      ]
+    },
+    {
+      "title": "Improved efficiency and cost reduction across the organization",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          33.37921154499054,
+          469.0784492492676
+        ],
+        [
+          347.18661403656006,
+          469.0784492492676
+        ],
+        [
+          347.18661403656006,
+          480.81159353256226
+        ],
+        [
+          33.37921154499054,
+          480.81159353256226
+        ]
+      ]
+    },
+    {
+      "title": "Deeper relationship-building",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          33.84500262141228,
+          119.92841252684593
+        ],
+        [
+          179.13267517089844,
+          119.92841252684593
+        ],
+        [
+          179.13267517089844,
+          132.59503707289696
+        ],
+        [
+          32.68094012141228,
+          132.59503707289696
+        ]
+      ]
+    },
+    {
+      "title": "Data service providers benefit from participation in an Open Data ecosystem in the \nfollowing common way:",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          33.1976820230484,
+          264.7376875281334
+        ],
+        [
+          448.8438415527344,
+          264.7376875281334
+        ],
+        [
+          448.8438415527344,
+          288.88877922296524
+        ],
+        [
+          33.1976820230484,
+          288.88877922296524
+        ]
+      ]
+    },
+    {
+      "title": "Building new infrastructure business models",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          33.05331099033356,
+          301.3869758248329
+        ],
+        [
+          255.67060148715973,
+          301.3869758248329
+        ],
+        [
+          255.67060148715973,
+          312.4650277495384
+        ],
+        [
+          33.05331099033356,
+          312.4650277495384
+        ]
+      ]
+    },
+    {
+      "title": "How might one measure success?",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          34.01570129394531,
+          92.32276006042957
+        ],
+        [
+          481.73553466796875,
+          90.67822881042957
+        ],
+        [
+          481.73553466796875,
+          124.74949932098389
+        ],
+        [
+          34.01570129394531,
+          126.39403057098389
+        ]
+      ]
+    },
+    {
+      "title": "National/Regional level",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          34.01570129394531,
+          289.3623698949814
+        ],
+        [
+          149.73167419433594,
+          287.7178386449814
+        ],
+        [
+          149.73167419433594,
+          300.2772216796875
+        ],
+        [
+          33.045215874910355,
+          301.1550862789154
+        ]
+      ]
+    },
+    {
+      "title": "Institutional level",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          34.01570129394531,
+          492.8974026441574
+        ],
+        [
+          121.98018324375153,
+          491.2528713941574
+        ],
+        [
+          121.60169982910156,
+          504.2772521972656
+        ],
+        [
+          33.08299604058266,
+          505.06215608119965
+        ]
+      ]
+    },
+    {
+      "title": "Consumer level",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          33.47020277380943,
+          120.80999931693077
+        ],
+        [
+          110.44569396972656,
+          120.80999931693077
+        ],
+        [
+          110.44569396972656,
+          132.2772216796875
+        ],
+        [
+          33.47020277380943,
+          132.2772216796875
+        ]
+      ]
+    },
+    {
+      "title": "Success conditions and \nkey capabilities",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          33.34974408149719,
+          91.12907844781876
+        ],
+        [
+          349.80157470703125,
+          89.48454719781876
+        ],
+        [
+          349.80157470703125,
+          160.44608569145203
+        ],
+        [
+          33.34974408149719,
+          162.09061694145203
+        ]
+      ]
+    },
+    {
+      "title": "Ecosystem-level success conditions",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          34.01570129394531,
+          204.1009802520275
+        ],
+        [
+          210.65965270996094,
+          202.4564490020275
+        ],
+        [
+          210.65965270996094,
+          214.10406494140625
+        ],
+        [
+          33.02484709024429,
+          215.295880317688
+        ]
+      ]
+    },
+    {
+      "title": "Fair and proportionate exchange of value",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          34.01570129394531,
+          431.81155836582184
+        ],
+        [
+          237.92666625976562,
+          430.16702711582184
+        ],
+        [
+          237.92666625976562,
+          442.1040344238281
+        ],
+        [
+          32.9153698682785,
+          443.6181765794754
+        ]
+      ]
+    },
+    {
+      "title": "Deep cross-sectoral collaboration to ensure the free flow of data",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          33.3683055639267,
+          120.70463147759438
+        ],
+        [
+          355.0695495605469,
+          120.70463147759438
+        ],
+        [
+          355.0695495605469,
+          132.2772216796875
+        ],
+        [
+          32.2042430639267,
+          132.2772216796875
+        ]
+      ]
+    },
+    {
+      "title": "A flexible, principles-based framework",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          34.01570129394531,
+          277.8058842420578
+        ],
+        [
+          227.5736541748047,
+          277.8058842420578
+        ],
+        [
+          227.5736541748047,
+          288.9474730491638
+        ],
+        [
+          33.04075312614441,
+          288.9474730491638
+        ]
+      ]
+    },
+    {
+      "title": "Common, cross-sector standards to maximize interoperability",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          34.01570129394531,
+          180.87020725011826
+        ],
+        [
+          341.037841796875,
+          180.87020725011826
+        ],
+        [
+          341.037841796875,
+          192.2772216796875
+        ],
+        [
+          33.114181995391846,
+          192.2772216796875
+        ]
+      ]
+    },
+    {
+      "title": "Balanced and fair distribution of liability",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          33.47083777189255,
+          385.6054145693779
+        ],
+        [
+          236.6167755126953,
+          385.6054145693779
+        ],
+        [
+          236.6167755126953,
+          397.1006217598915
+        ],
+        [
+          33.47083777189255,
+          397.1006217598915
+        ]
+      ]
+    },
+    {
+      "title": "Robustness and quality of data",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          33.38772851228714,
+          577.2256507873535
+        ],
+        [
+          187.40170288085938,
+          577.2256507873535
+        ],
+        [
+          187.40170288085938,
+          588.9212551116943
+        ],
+        [
+          33.38772851228714,
+          588.9212551116943
+        ]
+      ]
+    },
+    {
+      "title": "Coherent regulation",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          33.80601462721825,
+          120.68695306777954
+        ],
+        [
+          133.99473571777344,
+          120.68695306777954
+        ],
+        [
+          133.99473571777344,
+          132.32587105035782
+        ],
+        [
+          33.80601462721825,
+          132.32587105035782
+        ]
+      ]
+    },
+    {
+      "title": "Organization-level required capabilities",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          33.609258472919464,
+          289.49707210063934
+        ],
+        [
+          230.01670837402344,
+          289.49707210063934
+        ],
+        [
+          230.01670837402344,
+          300.77421629428864
+        ],
+        [
+          33.609258472919464,
+          300.77421629428864
+        ]
+      ]
+    },
+    {
+      "title": "Technology",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          33.40947608649731,
+          350.2772521972656
+        ],
+        [
+          90.2527084350586,
+          350.2772521972656
+        ],
+        [
+          90.2527084350586,
+          361.63507175445557
+        ],
+        [
+          33.40947608649731,
+          361.63507175445557
+        ]
+      ]
+    },
+    {
+      "title": "Governance and risk management",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          33.538129806518555,
+          433.96548879146576
+        ],
+        [
+          206.76170349121094,
+          433.96548879146576
+        ],
+        [
+          206.76170349121094,
+          444.3332425355911
+        ],
+        [
+          33.538129806518555,
+          444.3332425355911
+        ]
+      ]
+    },
+    {
+      "title": "Organizational and process design",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          33.704961121082306,
+          530.2136274576187
+        ],
+        [
+          203.87767028808594,
+          530.2136274576187
+        ],
+        [
+          203.87767028808594,
+          540.7716907262802
+        ],
+        [
+          33.704961121082306,
+          540.7716907262802
+        ]
+      ]
+    },
+    {
+      "title": "Strategy",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          33.81680737435818,
+          638.2772369384766
+        ],
+        [
+          76.45263242721558,
+          637.640643954277
+        ],
+        [
+          76.45263242721558,
+          648.2772369384766
+        ],
+        [
+          33.81680737435818,
+          649.7849210500717
+        ]
+      ]
+    },
+    {
+      "title": "Lessons from leading jurisdictions",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          33.583663165569305,
+          120.58282735943794
+        ],
+        [
+          202.81650495529175,
+          120.58282735943794
+        ],
+        [
+          202.61370849609375,
+          132.2772216796875
+        ],
+        [
+          32.419600665569305,
+          132.2772216796875
+        ]
+      ]
+    },
+    {
+      "title": "Potential implications for policymakers \nand market participants",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          33.679179310798645,
+          90.4009638428688
+        ],
+        [
+          547.8824462890625,
+          90.4009638428688
+        ],
+        [
+          547.8824462890625,
+          160.2535400390625
+        ],
+        [
+          33.679179310798645,
+          160.2535400390625
+        ]
+      ]
+    },
+    {
+      "title": "Contacts",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          33.795526057481766,
+          94.2535400390625
+        ],
+        [
+          150.47770714759827,
+          94.2535400390625
+        ],
+        [
+          150.47770714759827,
+          125.25648951530457
+        ],
+        [
+          33.795526057481766,
+          125.25648951530457
+        ]
+      ]
+    },
+    {
+      "title": "Endnotes",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          34.01570129394531,
+          93.02825909852982
+        ],
+        [
+          159.80569458007812,
+          91.38372784852982
+        ],
+        [
+          159.80569458007812,
+          124.65502208471298
+        ],
+        [
+          34.01570129394531,
+          126.29955333471298
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          31.58949387073517,
+          527.813529253006
+        ],
+        [
+          183.2702692747116,
+          527.813529253006
+        ],
+        [
+          183.2702692747116,
+          566.2168068885803
+        ],
+        [
+          31.58949387073517,
+          566.2168068885803
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2241
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2641
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1499
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          32
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2302
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1138
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          162
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 3323
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2819
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          34
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          295
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "ListItem",
+          40
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          274
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "ListItem",
+          32
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/gx-iif-open-data"
+}

@@ -260,7 +260,3 @@ fabric.properties
 
 # Ignore dynaconf secret files
 .secrets.*
-
-# output markdown folder
-md/
-md_pages/

@@ -9,7 +9,7 @@
 - Start the Reflex app:
     
     ```bash
-    reflex run
+    uv run reflex run
     ```
 
 
